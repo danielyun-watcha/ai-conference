@@ -1,0 +1,75 @@
+- title: ICDAR
+  year: 2025
+  id: icdar2025
+  full_name: International Conference on Document Analysis and Recognition
+  link: https://www.icdar2025.com/home
+  accepted_papers_url: https://dblp.org/db/conf/icdar/index.html
+  date: September 17-21, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2025-02-28 23:59:59'
+    timezone: PST
+  - type: paper
+    label: Paper submission
+    date: '2025-03-14 23:59:59'
+    timezone: PST
+  - type: supplementary
+    label: Supplementary materials
+    date: '2025-03-19 23:59:59'
+    timezone: PST
+  - type: notification
+    label: Acceptance notification
+    date: '2025-06-06 23:59:59'
+    timezone: PST
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2025-06-27 23:59:59'
+    timezone: PST
+  city: Wuhan
+  country: China
+  start: '2025-09-17'
+  end: '2025-09-21'
+  rankings: 'CCF: C, CORE: A, THCPL: B'
+  tags:
+  - computer-vision
+- title: ICDAR
+  year: 2026
+  id: icdar2026
+  full_name: International Conference on Document Analysis and Recognition
+  link: https://icdar2026.org/
+  date: August 30 - September 4, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2026-02-13 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Paper submission
+    date: '2026-02-27 23:59:59'
+    timezone: AoE
+  - type: review_release
+    label: Reviews released
+    date: '2026-04-17 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Rebuttal period
+    date: '2026-04-24 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Acceptance notification
+    date: '2026-05-15 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2026-06-15 23:59:59'
+    timezone: AoE
+  city: Vienna
+  country: Austria
+  start: '2026-08-30'
+  end: '2026-09-04'
+  rankings: 'CCF: C, CORE: A, THCPL: B'
+  tags:
+  - computer-vision
+  venue: TU Wien, Campus Gußhaus
+  era_rating: a

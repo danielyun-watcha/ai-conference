@@ -1,0 +1,79 @@
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr.thecvf.com/Conferences/2025/CallForPapers
+  accepted_papers_url: https://openaccess.thecvf.com/CVPR2025?day=all
+  date: June 10-17, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-11-07 23:59:00'
+    timezone: UTC-8
+  - type: submission
+    label: Paper Submission
+    date: '2024-11-14 23:59:00'
+    timezone: UTC-8
+  city: Nashville
+  country: Tennessee, USA
+  start: '2025-06-10'
+  end: '2025-06-17'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - computer-vision
+  venue: Music City Center, Nashville, USA
+  hindex: 389
+  note: OpenReview account creation deadline on Nov 1st, paper registration deadline on Nov 8th, supplementary materials deadline on Nov 22nd. Reviews released on Jan 23rd, rebuttal period ends Jan 31st,
+    and final decisions on Feb 26th.
+  era_rating: a
+- title: CVPR
+  year: 2026
+  id: cvpr26
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr.thecvf.com/Conferences/2026
+  date: June 3-7, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission
+    date: '2025-11-07 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Paper Submission
+    date: '2025-11-13 23:59:59'
+    timezone: AoE
+  - type: supplementary
+    label: Supplementary Materials
+    date: '2025-11-20 23:59:59'
+    timezone: AoE
+  - type: review_release
+    label: Reviews Released
+    date: '2026-01-22 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Rebuttal Period Starts
+    date: '2026-01-22 23:59:59'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Rebuttal Period Ends
+    date: '2026-01-29 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Final Decisions
+    date: '2026-02-20 23:59:59'
+    timezone: AoE
+  city: Denver
+  country: Colorado, United States
+  start: '2026-06-03'
+  end: '2026-06-07'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - computer-vision
+  - robotics
+  - machine-learning
+  - optimization-methods
+  - representation-learning
+  venue: Colorado Convention Center, Denver, USA
+  hindex: 450
+  note: Abstract submission deadline on Nov 7th, paper submission deadline on Nov 13th, supplementary materials deadline on Nov 20th. Reviews released on Jan 22nd, rebuttal period Jan 22nd-29th, and final
+    decisions on Feb 20th. Main conference June 5-7, workshops/tutorials June 3-4.
+  era_rating: a

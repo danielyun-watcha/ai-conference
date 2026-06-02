@@ -1,0 +1,29 @@
+- title: EACL
+  year: 2026
+  id: eacl26
+  full_name: The Annual Conference of the European Chapter of the Association for Computational Linguistics
+  link: https://2026.eacl.org/
+  date: March 24-29, 2026
+  deadlines:
+  - type: paper
+    label: ARR submission deadline
+    date: '2025-10-06 23:59:59'
+    timezone: AoE
+  - type: commitment_deadline
+    label: EACL commitment deadline
+    date: '2025-12-14 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2026-01-03 23:59:59'
+    timezone: AoE
+  city: Rabat
+  country: Morocco
+  start: '2026-03-24'
+  end: '2026-03-29'
+  rankings: 'CCF: N, CORE: A, THCPL: N'
+  tags:
+  - natural-language-processing
+  venue: Palais des Congrès, Rabat
+  note: Submissions via ACL Rolling Review (ARR) only. No EACL in 2025.
+  era_rating: a

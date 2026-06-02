@@ -1,0 +1,64 @@
+- title: ACM SIGGRAPH
+  year: 2025
+  id: siggraph25
+  full_name: ACM SIGGRAPH Annual Conference
+  link: https://s2025.siggraph.org/
+  accepted_papers_url: https://dblp.org/db/conf/siggraph/siggraph2025.html
+  date: August 10 - 14, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2025-01-16 22:00:00'
+    timezone: UTC+0
+  - type: submission
+    label: Paper Submission
+    date: '2025-01-23 22:00:00'
+    timezone: UTC+0
+  city: Vancouver
+  country: BC, Canada
+  start: '2025-08-10'
+  end: '2025-08-14'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - computer-graphics
+  venue: Convention Centre, Vancouver, Canada
+  era_rating: a
+- title: ACM SIGGRAPH
+  year: 2026
+  id: siggraph26
+  full_name: ACM SIGGRAPH Annual Conference
+  link: https://s2026.siggraph.org/
+  date: July 19 - 23, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-01-15 22:00:00'
+    timezone: UTC+0
+  - type: submission
+    label: Paper Submission
+    date: '2026-01-22 22:00:00'
+    timezone: UTC+0
+  city: Los Angeles
+  country: California
+  start: '2026-07-19'
+  end: '2026-07-23'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - computer-graphics
+  venue: Los Angeles Convention Center, Los Angeles, California
+  era_rating: a
+- title: SIGGRAPH
+  year: 2027
+  id: siggraph27
+  full_name: Conference on Computer Graphics and Interactive Techniques
+  link: https://www.siggraph.org/
+  deadlines: []
+  city: Anaheim
+  country: United States
+  venue: Anaheim Convention Center, Anaheim, California
+  date: August 8-12, 2027
+  start: '2027-08-08'
+  end: '2027-08-12'
+  era_rating: a
+  tags:
+  - computer-graphics

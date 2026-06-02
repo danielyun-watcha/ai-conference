@@ -1,0 +1,64 @@
+- title: FG
+  year: 2025
+  id: fg25
+  full_name: International Conference on Automatic Face and Gesture Recognition
+  link: https://fg2025.ieee-biometrics.org/
+  date: May 26-30, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2024-09-30 23:59:59'
+    timezone: UTC-8
+  - type: submission
+    label: Paper Submission
+    date: '2025-01-31 23:59:59'
+    timezone: UTC-8
+  city: Clearwater
+  country: USA
+  start: '2025-05-26'
+  end: '2025-05-30'
+  rankings: 'CCF: C, CORE: B, THCPL: B'
+- title: FG
+  year: 2026
+  id: fg26
+  full_name: International Conference on Automatic Face and Gesture Recognition
+  link: https://fg2026.ieee-biometrics.org/
+  date: May 25-29, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission (Round 1)
+    date: '2025-09-25 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission (Round 1) - Extended
+    date: '2025-10-06 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notifications to authors (Round 1)
+    date: '2025-12-11 23:59:59'
+    timezone: AoE
+  - type: abstract
+    label: Abstract Submission (Round 2)
+    date: '2026-01-09 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission (Round 2)
+    date: '2026-01-15 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notifications to authors (Round 2)
+    date: '2026-04-02 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready (for all accepted papers)
+    date: '2026-04-21 23:59:59'
+    timezone: AoE
+  city: Kyoto
+  country: Japan
+  start: '2026-05-25'
+  end: '2026-05-29'
+  rankings: 'CCF: C, CORE: B, THCPL: B'
+  tags:
+  - computer-vision
+  note: Abstract deadline on 2025-09-25 23:59:59 UTC-8! Round 1
+  era_rating: c

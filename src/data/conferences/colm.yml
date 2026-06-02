@@ -1,0 +1,62 @@
+- title: COLM
+  year: 2025
+  id: colm25
+  full_name: Conference on Language Modeling
+  link: https://colmweb.org/cfp.html
+  accepted_papers_url: https://colmweb.org/2025/AcceptedPapers.html
+  date: October 7-9, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2025-03-22 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2025-03-28 23:59:59'
+    timezone: AoE
+  city: Palais des Congrès Montreal
+  country: Canada
+  start: '2025-10-07'
+  end: '2025-10-09'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+  tags:
+  - natural-language-processing
+  venue: Palais des Congrès Montreal, Canada
+  era_rating: a
+- title: COLM
+  year: 2026
+  id: colm26
+  full_name: Conference on Language Modeling
+  link: https://colmweb.org
+  date: October 6-9, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission
+    date: '2026-03-26 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Paper Submission
+    date: '2026-03-31 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Rebuttal Period Start
+    date: '2026-05-22 00:00:00'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Rebuttal Period End
+    date: '2026-06-08 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Decision Notification
+    date: '2026-07-08 23:59:59'
+    timezone: AoE
+  city: Hilton Union Square
+  country: San Francisco, USA
+  start: '2026-10-06'
+  end: '2026-10-09'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+  tags:
+  - natural-language-processing
+  - large-language-models
+  venue: Hilton San Francisco Union Square, USA
+  era_rating: a

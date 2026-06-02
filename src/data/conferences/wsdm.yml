@@ -1,0 +1,100 @@
+- title: WSDM
+  year: 2025
+  id: wsdm25
+  full_name: International Conference on Web Search and Data Mining
+  link: https://www.wsdm-conference.org/2025/
+  accepted_papers_url: https://www.wsdm-conference.org/2025/accepted-papers/
+  date: March 10 - March 14, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2024-08-07 23:59:00'
+    timezone: AoE
+  - type: paper
+    label: Paper submission
+    date: '2024-08-14 23:59:00'
+    timezone: AoE
+  city: Hannover
+  country: Germany
+  start: '2025-03-10'
+  end: '2025-03-14'
+  rankings: 'CCF: B, CORE: A, THCPL: A'
+  tags:
+  - web-search
+  - data-mining
+  - recommender-systems
+  venue: Hannover Congress Center, Hannover, Germany
+  era_rating: b
+- title: WSDM
+  year: 2026
+  id: wsdm26
+  full_name: International Conference on Web Search and Data Mining
+  link: https://wsdm-conference.org/2026/
+  date: February 22 - 26, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract submission (full papers)
+    date: '2025-08-07 23:59:00'
+    timezone: AoE
+  - type: paper
+    label: Paper submission (full papers)
+    date: '2025-08-14 23:59:00'
+    timezone: AoE
+  - type: abstract
+    label: Abstract submission (short papers)
+    date: '2025-09-18 23:59:00'
+    timezone: AoE
+  - type: paper
+    label: Paper submission (short papers)
+    date: '2025-09-25 23:59:00'
+    timezone: AoE
+  - type: notification
+    label: Author notification (full papers)
+    date: '2025-10-23 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification (short papers)
+    date: '2025-11-27 23:59:59'
+    timezone: AoE
+  city: Boise
+  country: Idaho, USA
+  start: '2026-02-22'
+  end: '2026-02-26'
+  rankings: 'CCF: B, CORE: A, THCPL: A'
+  tags:
+  - web-search
+  - data-mining
+  - recommender-systems
+  venue: Boise, Idaho, USA
+  era_rating: b
+  accepted_papers_url: https://wsdm-conference.org/2026/index.php/accepted-papers/
+- title: WSDM
+  year: 2027
+  id: wsdm27
+  full_name: ACM International Conference on Web Search and Data Mining
+  link: https://www.wsdm-conference.org/
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2026-08-17 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Paper submission
+    date: '2026-08-24 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2026-11-02 23:59:59'
+    timezone: AoE
+  date: February 15-19, 2027
+  start: '2027-02-15'
+  end: '2027-02-19'
+  city: Hong Kong
+  country: China
+  venue: Cordis, Hong Kong
+  tags:
+  - web-search
+  - data-mining
+  - recommender-systems
+  era_rating: b
+  rankings: 'CCF: B, CORE: A*, THCPL: B'

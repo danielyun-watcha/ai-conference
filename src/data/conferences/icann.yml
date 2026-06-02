@@ -1,0 +1,62 @@
+- title: ICANN
+  year: 2025
+  id: icann2025
+  full_name: International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2025/
+  accepted_papers_url: https://dblp.org/db/conf/icann/icann2025-1.html
+  date: Sept 9-12, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-03-29 23:59:59'
+    timezone: AoE
+  city: Kaunas
+  country: Lithuania
+  start: '2025-09-09'
+  end: '2025-09-12'
+  rankings: 'CCF: C, CORE: C, THCPL: N'
+  tags:
+  - machine-learning
+  venue: Kaunas, Lithuania
+  hindex: 32.0
+  note: Deadline for full paper submission extended to 29th March 2025. More info <a href='https://e-nns.org/icann2025'>here</a>.
+  paperslink: https://link.springer.com/conference/icann
+- title: ICANN
+  year: 2026
+  id: icann2026
+  full_name: International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2026/
+  date: Sept 14-17, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract and Full Paper Submission
+    date: '2026-03-30 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Full Paper Submission
+    date: '2026-03-30 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Final Notification
+    date: '2026-05-29 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready Paper Upload
+    date: '2026-06-15 23:59:59'
+    timezone: AoE
+  - type: registration
+    label: Author Registration and Early Registration
+    date: '2026-06-29 23:59:59'
+    timezone: AoE
+  city: Conference center of the School of Psychology
+  country: University of Padua, Italy
+  start: '2026-09-14'
+  end: '2026-09-17'
+  rankings: 'CCF: C, CORE: C, THCPL: N'
+  tags:
+  - machine-learning
+  venue: Conference center of the School of Psychology, University of Padua, Padua, Italy
+  hindex: 32.0
+  note: Paper submission deadline extended to 30th March 2026. More info <a href='https://e-nns.org/icann2026/call-for-papers-2/'>here</a>.
+  era_rating: b
+  paperslink: https://link.springer.com/conference/icann

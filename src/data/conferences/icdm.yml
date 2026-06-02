@@ -1,0 +1,59 @@
+- title: ICDM
+  year: 2025
+  id: icdm2025
+  full_name: IEEE International Conference on Data Mining
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+  accepted_papers_url: https://dblp.org/db/conf/icdm/icdm2025.html
+  date: November 12-15, 2025
+  deadlines:
+  - type: paper
+    label: Full Paper Submission
+    date: '2025-06-06 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author Notification
+    date: '2025-08-25 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera Ready Deadline
+    date: '2025-09-25 23:59:59'
+    timezone: AoE
+  city: Washington DC
+  country: USA
+  start: '2025-11-12'
+  end: '2025-11-15'
+  rankings: 'CCF: B, CORE: A*, THCPL: B'
+  tags:
+  - data-mining
+  era_rating: a
+- title: ICDM
+  year: 2026
+  id: icdm2026
+  full_name: IEEE International Conference on Data Mining
+  link: http://icdm2026.neu.edu.cn/
+  date: November 12-15, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission
+    date: '2026-05-30 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Full Paper Submission
+    date: '2026-06-06 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author Notification
+    date: '2026-08-16 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera Ready Deadline
+    date: '2026-09-09 23:59:59'
+    timezone: AoE
+  city: Shenyang
+  country: China
+  start: '2026-11-12'
+  end: '2026-11-15'
+  rankings: 'CCF: B, CORE: A*, THCPL: B'
+  tags:
+  - data-mining
+  era_rating: a

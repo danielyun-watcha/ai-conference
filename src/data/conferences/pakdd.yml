@@ -1,0 +1,57 @@
+- title: PAKDD
+  year: 2025
+  id: pakdd25
+  full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  link: https://pakdd2025.org
+  accepted_papers_url: https://dblp.org/db/conf/pakdd/index.html
+  date: June 10-13, 2025
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2024-12-14 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2025-02-08 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2025-03-08 23:59:59'
+    timezone: AoE
+  city: Sydney
+  country: Australia
+  start: '2025-06-10'
+  end: '2025-06-13'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - data-mining
+  - machine-learning
+  - recommender-systems
+- title: PAKDD
+  year: 2026
+  id: pakdd26
+  full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  link: https://www.pakdd2026.org/
+  date: June 9-12, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2025-11-25 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2026-02-08 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2026-03-01 23:59:59'
+    timezone: AoE
+  city: Hong Kong
+  country: China
+  start: '2026-06-09'
+  end: '2026-06-12'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - data-mining
+  - machine-learning
+  - recommender-systems

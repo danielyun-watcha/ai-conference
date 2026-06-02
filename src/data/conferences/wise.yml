@@ -1,0 +1,30 @@
+- title: WISE
+  year: 2025
+  id: wise25
+  full_name: International Conference on Web Information Systems Engineering
+  link: https://www.ficloud.org/wise2025/
+  accepted_papers_url: https://link.springer.com/book/9789819573936
+  deadlines:
+    - type: paper
+      label: Paper submission deadline
+      date: '2025-07-17 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2025-09-03 23:59:59'
+      timezone: AoE
+    - type: camera_ready
+      label: Camera-ready deadline
+      date: '2025-09-20 23:59:59'
+      timezone: AoE
+  date: December 15-18, 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  city: Marrakech
+  country: Morocco
+  venue: Palm Plaza Hôtel
+  tags:
+    - web-search
+    - data-mining
+    - recommender-systems
+  rankings: 'CCF: C, CORE: B'

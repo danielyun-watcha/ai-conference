@@ -1,0 +1,65 @@
+- title: EMNLP
+  year: 2025
+  id: emnlp25
+  full_name: The annual Conference on Empirical Methods in Natural Language Processing
+  link: https://2025.emnlp.org/
+  accepted_papers_url: https://aclanthology.org/volumes/2025.emnlp-main/
+  date: November 5 - 9, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-05-19 23:59:59'
+    timezone: UTC-12
+  city: Suzhou
+  country: China
+  start: '2025-11-05'
+  end: '2025-11-09'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+- title: EMNLP
+  year: 2026
+  id: emnlp26
+  full_name: The annual Conference on Empirical Methods in Natural Language Processing
+  link: https://2026.emnlp.org/
+  date: October 24 - 29, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2026-05-25 23:59:59'
+    timezone: AoE
+  - type: reviewer_registration
+    label: Reviewer registration deadline
+    date: '2026-05-27 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Author response period start
+    date: '2026-07-07 23:59:59'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Author response period end
+    date: '2026-07-13 23:59:59'
+    timezone: AoE
+  - type: review_release
+    label: Meta review release
+    date: '2026-07-30 23:59:59'
+    timezone: AoE
+  - type: commitment_deadline
+    label: EMNLP commitment deadline
+    date: '2026-08-02 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification date
+    date: '2026-08-20 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2026-09-20 23:59:59'
+    timezone: AoE
+  city: Budapest
+  country: Hungary
+  start: '2026-10-24'
+  end: '2026-10-29'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  tags:
+  - natural-language-processing
+  venue: TBA
+  era_rating: a

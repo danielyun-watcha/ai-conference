@@ -1,0 +1,52 @@
+- title: CSCW
+  year: 2025
+  id: cscw25
+  full_name: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  link: https://cscw.acm.org/2025/
+  accepted_papers_url: https://dblp.org/db/conf/cscw/cscw2025c.html
+  date: October 18-22, 2025
+  deadlines:
+  - type: paper
+    label: Paper submission (Cycle 2)
+    date: '2024-10-29 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2025-02-12 23:59:59'
+    timezone: AoE
+  city: Bergen
+  country: Norway
+  start: '2025-10-18'
+  end: '2025-10-22'
+  rankings: 'CCF: A, CORE: A, THCPL: A'
+  tags:
+  - human-computer-interaction
+  - recommender-systems
+  venue: Grieghallen Conference Center
+  note: Rolling review via PACM HCI. Two submission cycles for CSCW 2025.
+  era_rating: a
+- title: CSCW
+  year: 2026
+  id: cscw26
+  full_name: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  link: https://cscw.acm.org/2026/
+  date: October 10-14, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission
+    date: '2025-05-14 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification (1st round)
+    date: '2025-08-19 23:59:59'
+    timezone: AoE
+  city: Salt Lake City
+  country: Utah, USA
+  start: '2026-10-10'
+  end: '2026-10-14'
+  rankings: 'CCF: A, CORE: A, THCPL: A'
+  tags:
+  - human-computer-interaction
+  - recommender-systems
+  note: Single new-paper submission cycle for CSCW 2026.
+  era_rating: a

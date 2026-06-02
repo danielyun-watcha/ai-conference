@@ -1,0 +1,58 @@
+- title: CHIIR
+  year: 2025
+  id: chiir25
+  full_name: ACM SIGIR Conference on Human Information Interaction and Retrieval
+  link: https://chiir2025.github.io/
+  accepted_papers_url: https://dblp.org/db/conf/chiir/chiir2025.html
+  deadlines:
+    - type: abstract
+      label: Abstract deadline
+      date: '2024-10-17 23:59:59'
+      timezone: AoE
+    - type: paper
+      label: Paper submission deadline
+      date: '2024-10-24 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2024-12-17 23:59:59'
+      timezone: AoE
+  date: March 24-27, 2025
+  start: 2025-03-24
+  end: 2025-03-27
+  city: Melbourne
+  country: Australia
+  tags:
+    - information-retrieval
+    - human-computer-interaction
+    - recommender-systems
+  rankings: 'CORE: B'
+
+- title: CHIIR
+  year: 2026
+  id: chiir26
+  full_name: ACM SIGIR Conference on Human Information Interaction and Retrieval
+  link: https://chiir2026.github.io/
+  deadlines:
+    - type: abstract
+      label: Abstract deadline
+      date: '2025-10-08 23:59:59'
+      timezone: AoE
+    - type: paper
+      label: Paper submission deadline
+      date: '2025-10-15 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2025-12-10 23:59:59'
+      timezone: AoE
+  date: March 22-26, 2026
+  start: 2026-03-22
+  end: 2026-03-26
+  city: Seattle
+  country: USA
+  tags:
+    - information-retrieval
+    - human-computer-interaction
+    - recommender-systems
+  rankings: 'CORE: B'

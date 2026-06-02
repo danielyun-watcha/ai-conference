@@ -1,0 +1,68 @@
+- title: ICASSP
+  year: 2025
+  id: icassp25
+  full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  link: https://2025.ieeeicassp.org/
+  date: April 6-11, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2024-09-12 23:59:59'
+    timezone: UTC-7
+  city: Hyderabad
+  country: India
+  start: '2025-04-06'
+  end: '2025-04-11'
+  rankings: 'CCF: B, CORE: B, THCPL: B'
+  tags:
+  - signal-processing
+  venue: Hyderabad International Convention Center, Hyderabad, India
+- title: ICASSP
+  year: 2026
+  id: icassp26
+  full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  link: https://2026.ieeeicassp.org/
+  date: May 4-8, 2026
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-09-17 23:59:59'
+    timezone: UTC-12
+  city: Barcelona
+  country: Spain
+  start: '2026-05-04'
+  end: '2026-05-08'
+  rankings: 'CCF: B, CORE: B, THCPL: B'
+  tags:
+  - speech
+  - signal-processing
+  venue: Barcelona International Convention Center (CCIB), Barcelona, Spain
+  era_rating: a
+- title: ICASSP
+  year: 2027
+  id: icassp27
+  full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  link: https://2027.ieeeicassp.org/
+  date: May 16-21, 2027
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2026-09-16 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2027-01-13 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2027-01-27 23:59:59'
+    timezone: AoE
+  city: Toronto
+  country: Canada
+  start: '2027-05-16'
+  end: '2027-05-21'
+  rankings: 'CCF: B, CORE: B, THCPL: B'
+  tags:
+  - speech
+  - signal-processing
+  era_rating: a

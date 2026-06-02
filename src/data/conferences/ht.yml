@@ -1,0 +1,51 @@
+- title: HT
+  year: 2025
+  id: ht25
+  full_name: ACM Conference on Hypertext and Social Media
+  link: https://ht.acm.org/ht2025/
+  accepted_papers_url: https://dblp.org/db/conf/ht/ht2025.html
+  deadlines:
+    - type: paper
+      label: Paper submission deadline
+      date: '2025-05-09 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2025-06-20 23:59:59'
+      timezone: AoE
+    - type: camera_ready
+      label: Camera-ready deadline
+      date: '2025-07-14 23:59:59'
+      timezone: AoE
+  date: September 15-18, 2025
+  start: 2025-09-15
+  end: 2025-09-18
+  city: Chicago
+  country: USA
+  tags:
+    - recommender-systems
+    - web-search
+    - human-computer-interaction
+  rankings: 'ERA: A'
+
+- title: HT
+  year: 2026
+  id: ht26
+  full_name: ACM Conference on Hypertext and Social Media
+  link: https://ht.acm.org/ht2026/
+  deadlines:
+    - type: paper
+      label: Paper submission deadline
+      date: '2026-03-27 23:59:59'
+      timezone: AoE
+  date: September 14-18, 2026
+  start: 2026-09-14
+  end: 2026-09-18
+  city: London
+  country: UK
+  venue: London College of Communication, Elephant and Castle
+  tags:
+    - recommender-systems
+    - web-search
+    - human-computer-interaction
+  rankings: 'ERA: A'

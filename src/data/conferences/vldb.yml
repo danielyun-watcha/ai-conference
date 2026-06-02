@@ -1,0 +1,160 @@
+- title: VLDB
+  year: 2025
+  id: vldb25
+  full_name: International Conference on Very Large Data Bases
+  link: http://www.vldb.org/2025/
+  accepted_papers_url: https://vldb.org/pvldb/volumes/18/
+  date: September 1-5, 2025
+  deadlines:
+  - type: paper
+    label: PVLDB Vol.18 monthly deadline (1st of each month)
+    date: '2025-03-01 17:00:00'
+    timezone: America/Los_Angeles
+  - type: notification
+    label: Notification (~15th of following month)
+    date: '2025-04-15 23:59:59'
+    timezone: AoE
+  city: London
+  country: United Kingdom
+  start: '2025-09-01'
+  end: '2025-09-05'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - data-mining
+  - machine-learning
+  venue: Queen Elizabeth II Centre
+  note: Rolling monthly deadlines via PVLDB. Last submission for VLDB 2025 is March 1, 2025.
+  era_rating: a
+- title: VLDB
+  year: 2026
+  id: vldb26
+  full_name: International Conference on Very Large Data Bases
+  link: https://www.vldb.org/2026/
+  date: August 31 - September 4, 2026
+  deadlines:
+  - type: paper
+    label: PVLDB Vol.19 monthly deadline (1st of each month)
+    date: '2026-03-01 17:00:00'
+    timezone: America/Los_Angeles
+  - type: notification
+    label: Notification (~15th of following month)
+    date: '2026-04-15 23:59:59'
+    timezone: AoE
+  city: Boston
+  country: MA, USA
+  start: '2026-08-31'
+  end: '2026-09-04'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - data-mining
+  - machine-learning
+  note: Rolling monthly deadlines via PVLDB (Apr 2025 - Mar 2026). Last submission for VLDB 2026 is March 1, 2026.
+  era_rating: a
+- title: VLDB
+  year: 2027
+  id: vldb27
+  full_name: International Conference on Very Large Data Bases
+  link: https://www.vldb.org/2027/
+  date: August 23 - August 27, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-03-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-04-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-04-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-05-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-05-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-06-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-06-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-07-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-07-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-08-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-08-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-09-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-09-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-10-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-11-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-11-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2026-12-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-12-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2027-01-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2027-01-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2027-02-01 17:00:00'
+    timezone: UTC-7
+  - type: abstract
+    label: Abstract Deadline
+    date: '2027-02-25 17:00:00'
+    timezone: UTC-7
+  - type: submission
+    label: Paper Submission
+    date: '2027-03-01 17:00:00'
+    timezone: UTC-7
+  city: Athens
+  country: Greece
+  start: '2027-08-23'
+  end: '2027-08-27'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

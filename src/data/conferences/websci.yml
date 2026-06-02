@@ -1,0 +1,58 @@
+- title: WebSci
+  year: 2025
+  id: websci25
+  full_name: ACM Web Science Conference
+  link: https://websci25.org/
+  accepted_papers_url: https://dblp.org/db/conf/websci/websci2025.html
+  deadlines:
+    - type: paper
+      label: Paper submission deadline
+      date: '2024-11-30 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2025-01-31 23:59:59'
+      timezone: AoE
+    - type: camera_ready
+      label: Camera-ready deadline
+      date: '2025-02-28 23:59:59'
+      timezone: AoE
+  date: May 20-23, 2025
+  start: 2025-05-20
+  end: 2025-05-23
+  city: New Brunswick
+  country: USA
+  venue: Rutgers University
+  tags:
+    - web-search
+    - recommender-systems
+  rankings: ''
+
+- title: WebSci
+  year: 2026
+  id: websci26
+  full_name: ACM Web Science Conference
+  link: https://websci26.org/
+  deadlines:
+    - type: paper
+      label: Paper submission deadline
+      date: '2025-12-17 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2026-02-18 23:59:59'
+      timezone: AoE
+    - type: camera_ready
+      label: Camera-ready deadline
+      date: '2026-02-28 23:59:59'
+      timezone: AoE
+  date: May 26-29, 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  city: Braunschweig
+  country: Germany
+  venue: TU Braunschweig
+  tags:
+    - web-search
+    - recommender-systems
+  rankings: ''

@@ -1,0 +1,82 @@
+- title: WWW
+  year: 2025
+  id: www25
+  full_name: International World Wide Web Conferences
+  link: https://www2025.thewebconf.org/
+  accepted_papers_url: https://dblp.org/db/conf/www/www2025.html
+  date: April 28 - May 2, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-10-07 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2024-10-14 23:59:59'
+    timezone: AoE
+  city: Sydney
+  country: Australia
+  start: '2025-04-28'
+  end: '2025-05-02'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+- title: WWW
+  year: 2026
+  id: www26
+  full_name: International World Wide Web Conferences
+  link: https://www2026.thewebconf.org/
+  date: April 13 - 17, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission
+    date: '2025-09-30 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2025-10-07 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Rebuttal Period Start
+    date: '2025-11-24 00:00:00'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Rebuttal Period End
+    date: '2025-12-01 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notification
+    date: '2026-01-13 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera Ready
+    date: '2026-01-25 23:59:59'
+    timezone: AoE
+  city: Dubaï
+  country: UAE
+  start: '2026-04-13'
+  end: '2026-04-17'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - machine-learning
+  - recommender-systems
+  - web-search
+  - data-mining
+  venue: InterContinental Dubai Festival City by IHG
+  era_rating: a
+- title: WWW
+  year: 2027
+  id: www27
+  full_name: International World Wide Web Conferences
+  link: https://www2027.thewebconf.org/
+  date: TBD
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: TBD
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: AoE
+  city: Dublin
+  country: Ireland
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

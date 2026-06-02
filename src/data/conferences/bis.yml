@@ -1,0 +1,46 @@
+- title: BIS
+  year: 2025
+  id: bis2025
+  full_name: International Conference on Business Information Systems
+  link: https://bisconf.org/2025/
+  accepted_papers_url: https://dblp.org/db/conf/bis/bis2025.html
+  date: June 25-27, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-01-31 23:59:59'
+    timezone: AoE
+  city: Poznań
+  country: Poland
+  start: '2025-06-25'
+  end: '2025-06-27'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+- title: BIS
+  year: 2026
+  id: bis2026
+  full_name: International Conference on Business Information Systems
+  link: https://bisconf.org/2026/
+  date: June 10-12, 2026
+  deadlines:
+  - type: submission
+    label: Paper submission deadline (extended)
+    date: '2026-01-25 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2026-03-09 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Final paper submission
+    date: '2026-03-25 23:59:59'
+    timezone: AoE
+  city: Prague
+  country: Czech Republic
+  start: '2026-06-10'
+  end: '2026-06-12'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+  tags:
+  - information-systems
+  - data-mining
+  venue: Prague University of Economics and Business, Nám. W. Churchilla 4, Prague 130 67, Czech Republic
+  era_rating: b

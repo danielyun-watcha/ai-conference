@@ -1,0 +1,45 @@
+- title: KSEM
+  year: 2025
+  id: ksem25
+  full_name: International Conference on Knowledge Science, Engineering and Management
+  link: https://ksem2025.scimeeting.cn/
+  accepted_papers_url: https://dblp.org/db/conf/ksem/index.html
+  date: August 4-6, 2025
+  deadlines:
+  - type: submission
+    label: Paper submission deadline
+    date: '2025-03-20 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Acceptance notification
+    date: '2025-05-30 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready deadline
+    date: '2025-06-15 23:59:59'
+    timezone: AoE
+  city: Macao SAR
+  country: China
+  start: '2025-08-04'
+  end: '2025-08-06'
+  rankings: 'CCF: C, CORE: C, THCPL: N'
+  tags:
+  - machine-learning
+  venue: Wynn Palace
+  era_rating: b
+- title: KSEM
+  year: 2026
+  id: ksem26
+  full_name: International Conference on Knowledge Science, Engineering and Management
+  link: https://ksem2026.rosc.org.cn/
+  date: July 17-19, 2026
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-01-15 23:59:59'
+    timezone: UTC+0
+  city: Beijing
+  country: China
+  start: '2026-07-17'
+  end: '2026-07-19'
+  rankings: 'CCF: C, CORE: C, THCPL: N'

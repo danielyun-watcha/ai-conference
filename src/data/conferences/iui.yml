@@ -1,0 +1,89 @@
+- title: IUI
+  year: 2025
+  id: iui25
+  full_name: ACM Conference on Intelligent User Interfaces
+  link: https://iui.acm.org/2025/
+  accepted_papers_url: https://dblp.org/db/conf/iui/iui2025.html
+  date: March 24 - March 27, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-10-02 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2024-10-09 23:59:59'
+    timezone: AoE
+  city: Cagliari
+  country: Italy
+  start: '2025-03-24'
+  end: '2025-03-27'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
+- title: IUI
+  year: 2026
+  id: iui26
+  full_name: ACM Conference on Intelligent User Interfaces
+  link: https://iui.hosting.acm.org/2026/
+  date: March 23 - 26, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2025-10-03 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Full paper submission
+    date: '2025-10-10 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Decision notification
+    date: '2025-12-12 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready submission
+    date: '2026-01-23 23:59:59'
+    timezone: AoE
+  - type: registration
+    label: Author registration deadline
+    date: '2026-01-23 23:59:59'
+    timezone: AoE
+  city: Paphos
+  country: Cyprus
+  start: '2026-03-23'
+  end: '2026-03-26'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
+  tags:
+  - human-computer-interaction
+  venue: St. Raphael Resort & Marina
+  era_rating: a
+- title: IUI
+  year: 2027
+  id: iui27
+  full_name: ACM Conference on Intelligent User Interfaces
+  link: https://iui.hosting.acm.org/2027/
+  date: February 8-11, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract submission
+    date: '2026-08-13 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Paper submission
+    date: '2026-08-20 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Decision notification
+    date: '2026-11-23 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready submission
+    date: '2026-12-03 23:59:59'
+    timezone: AoE
+  city: Helsinki
+  country: Finland
+  start: '2027-02-08'
+  end: '2027-02-11'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
+  tags:
+  - human-computer-interaction
+  venue: Paasitorni, Helsinki
+  era_rating: a

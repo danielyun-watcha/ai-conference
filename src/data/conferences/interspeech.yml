@@ -1,0 +1,58 @@
+- title: InterSpeech
+  year: 2025
+  id: interspeech25
+  full_name: Conference of the International Speech Communication Association
+  link: https://www.interspeech2025.org/home
+  accepted_papers_url: https://www.isca-archive.org/interspeech_2025/
+  date: August 17-22, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-02-19 23:59:59'
+    timezone: UTC+0
+  city: Rotterdam
+  country: Netherlands
+  start: '2025-08-17'
+  end: '2025-08-22'
+  rankings: 'CCF: B, CORE: A, THCPL: N'
+- title: InterSpeech
+  year: 2026
+  id: interspeech26
+  full_name: Conference of the International Speech Communication Association
+  link: https://interspeech2026.org/
+  date: September 27 - October 1, 2026
+  deadlines:
+  - type: submission
+    label: Paper submission deadline
+    date: '2026-02-25 23:59:59'
+    timezone: AoE
+  - type: supplementary
+    label: Paper update deadline
+    date: '2026-03-04 23:59:59'
+    timezone: AoE
+  - type: rebuttal_start
+    label: Rebuttal period start
+    date: '2026-04-24 23:59:59'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Rebuttal period end
+    date: '2026-05-01 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Paper acceptance notification
+    date: '2026-06-05 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready paper submission
+    date: '2026-06-19 23:59:59'
+    timezone: AoE
+  city: Sydney
+  country: Australia
+  start: '2026-09-27'
+  end: '2026-10-01'
+  rankings: 'CCF: B, CORE: A, THCPL: N'
+  tags:
+  - speech
+  - signal-processing
+  venue: International Convention Centre (ICC) Sydney
+  era_rating: a

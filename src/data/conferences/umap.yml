@@ -1,0 +1,63 @@
+- title: UMAP
+  year: 2025
+  id: umap25
+  full_name: ACM Conference on User Modeling, Adaptation and Personalization
+  link: https://www.um.org/umap2025/
+  accepted_papers_url: https://dblp.org/db/conf/um/umap2025.html
+  deadlines:
+    - type: abstract
+      label: Abstract deadline
+      date: '2025-01-23 23:59:59'
+      timezone: AoE
+    - type: paper
+      label: Paper submission deadline
+      date: '2025-01-30 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2025-03-20 23:59:59'
+      timezone: AoE
+    - type: camera_ready
+      label: Camera-ready deadline
+      date: '2025-04-03 23:59:59'
+      timezone: AoE
+  date: June 16-19, 2025
+  start: 2025-06-16
+  end: 2025-06-19
+  city: New York City
+  country: USA
+  venue: Cornell Tech, New York City, USA
+  tags:
+    - recommender-systems
+    - machine-learning
+    - human-computer-interaction
+  rankings: 'CORE: A, ERA: B'
+
+- title: UMAP
+  year: 2026
+  id: umap26
+  full_name: ACM Conference on User Modeling, Adaptation and Personalization
+  link: https://www.um.org/umap2026/
+  deadlines:
+    - type: abstract
+      label: Abstract deadline
+      date: '2026-01-22 23:59:59'
+      timezone: AoE
+    - type: paper
+      label: Paper submission deadline
+      date: '2026-01-29 23:59:59'
+      timezone: AoE
+    - type: notification
+      label: Author notification
+      date: '2026-03-26 23:59:59'
+      timezone: AoE
+  date: June 8-11, 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  city: Gothenburg
+  country: Sweden
+  tags:
+    - recommender-systems
+    - machine-learning
+    - human-computer-interaction
+  rankings: 'CORE: A, ERA: B'

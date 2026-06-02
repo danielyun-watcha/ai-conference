@@ -1,0 +1,63 @@
+- title: CHI
+  year: 2025
+  id: chi25
+  full_name: ACM Conference on Human Factors in Computing Systems
+  link: https://chi2025.acm.org/
+  accepted_papers_url: https://dblp.org/db/conf/chi/chi2025.html
+  date: April 26 - May 1, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-09-05 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2024-09-12 23:59:59'
+    timezone: AoE
+  city: Yokohama
+  country: Japan
+  start: '2025-04-26'
+  end: '2025-05-01'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - human-computer-interaction
+  venue: Pacifico Yokohama Conference Center, Yokohama, Japan
+  hindex: 122
+  note: Mandatory abstract deadline on Sep 05, 2024. More info <a href='https://chi2025.acm.org/for-authors/papers/'>here</a>.
+- title: CHI
+  year: 2026
+  id: chi26
+  full_name: ACM Conference on Human Factors in Computing Systems
+  link: https://chi2026.acm.org/
+  date: April 13 - 17, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract/Metadata Due
+    date: '2025-09-04 23:59:59'
+    timezone: AoE
+  - type: paper
+    label: Full Paper Due
+    date: '2025-09-11 23:59:59'
+    timezone: AoE
+  - type: review_release
+    label: Reviews Released
+    date: '2025-11-04 23:59:59'
+    timezone: AoE
+  - type: rebuttal_and_revision
+    label: Resubmission Due
+    date: '2025-12-04 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Decisions Notification
+    date: '2026-01-15 23:59:59'
+    timezone: AoE
+  city: Centre de Convencions Internacional de Barcelona
+  country: Barcelona, Spain
+  start: '2026-04-13'
+  end: '2026-04-17'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - human-computer-interaction
+  venue: Centre de Convencions Internacional de Barcelona, Barcelona, Spain
+  hindex: 128
+  note: Mandatory abstract deadline on Sep 04, 2025. More info <a href='https://chi2026.acm.org/authors/papers/'>here</a>.

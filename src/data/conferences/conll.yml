@@ -1,0 +1,57 @@
+- title: CoNLL
+  year: 2025
+  id: conll25
+  full_name: Conference on Computational Natural Language Learning
+  link: https://www.conll.org/
+  accepted_papers_url: https://aclanthology.org/volumes/2025.conll-1/
+  date: July 31 - August 1, 2025
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2025-03-14 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notification of acceptance
+    date: '2025-05-23 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready papers due
+    date: '2025-06-17 23:59:59'
+    timezone: AoE
+  city: Vienna
+  country: Austria
+  start: '2025-07-31'
+  end: '2025-08-01'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - natural-language-processing
+  venue: Vienna, Austria
+  era_rating: a
+- title: CoNLL
+  year: 2026
+  id: conll26
+  full_name: Conference on Computational Natural Language Learning
+  link: https://www.conll.org/
+  date: July 3 - 4, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2026-02-19 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notification of acceptance
+    date: '2026-04-21 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready papers due
+    date: '2026-05-12 23:59:59'
+    timezone: AoE
+  city: San Diego
+  country: California, United States
+  start: '2026-07-03'
+  end: '2026-07-04'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - natural-language-processing
+  venue: San Diego, California, USA
+  era_rating: a

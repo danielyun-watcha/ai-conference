@@ -1,0 +1,50 @@
+- title: IEEE CEC
+  year: 2025
+  id: cec2025
+  full_name: IEEE Congress on Evolutionary Computation
+  link: https://www.cec2025.org/
+  date: June 8-12, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-01-15 23:59:59'
+    timezone: UTC-12
+  city: Hangzhou
+  country: China
+  start: '2025-06-08'
+  end: '2025-06-12'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - machine-learning
+- title: IEEE CEC
+  year: 2026
+  id: cec2026
+  full_name: IEEE Congress on Evolutionary Computation
+  link: https://attend.ieee.org/wcci-2026/ieee-cec-2025/
+  date: June 22-26, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2026-01-31 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Paper acceptance notification
+    date: '2026-03-15 23:59:59'
+    timezone: AoE
+  - type: camera_ready
+    label: Camera-ready papers deadline
+    date: '2026-04-15 23:59:59'
+    timezone: AoE
+  - type: registration
+    label: Early bird registration deadline
+    date: '2026-05-01 23:59:59'
+    timezone: AoE
+  city: Maastricht Exhibition & Congress Centre (MECC)
+  country: The Netherlands
+  start: '2026-06-22'
+  end: '2026-06-26'
+  rankings: 'CCF: C, CORE: B, THCPL: N'
+  tags:
+  - machine-learning
+  venue: Maastricht Exhibition & Congress Centre (MECC)
+  era_rating: a

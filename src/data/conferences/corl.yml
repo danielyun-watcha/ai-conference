@@ -1,0 +1,48 @@
+- title: CoRL
+  year: 2025
+  id: corl25
+  full_name: The Conference on Robot Learning
+  link: https://www.corl.org/
+  accepted_papers_url: https://2025.corl.org/program/main-conference
+  date: September 27-30, 2025
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2025-04-30 23:59:59'
+    timezone: AoE
+  city: Seoul
+  country: Korea
+  start: '2025-09-27'
+  end: '2025-09-30'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+  tags:
+  - machine-learning
+  - robotics
+  venue: COEX Convention & Exhibition Center, Seoul, South Korea
+  era_rating: a
+- title: CoRL
+  year: 2026
+  id: corl26
+  full_name: The Conference on Robot Learning
+  link: https://www.corl.org/
+  date: November 10-12, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-05-25 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-05-28 23:59:59'
+    timezone: AoE
+  city: Austin
+  country: Texas, USA
+  start: '2026-11-10'
+  end: '2026-11-12'
+  rankings: 'CCF: N, CORE: N, THCPL: N'
+  tags:
+  - machine-learning
+  - robotics
+  venue: JW Marriott Austin, 110 E 2nd St, Austin, TX 78701
+  note: Workshops on Nov 9, main conference Nov 10-12
+  era_rating: a

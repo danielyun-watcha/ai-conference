@@ -1,0 +1,56 @@
+- title: ESANN
+  year: 2025
+  id: esann25
+  full_name: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+  link: https://www.esann.org/
+  accepted_papers_url: https://www.esann.org/proceedings/2025
+  date: April 23 - April 25, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-11-20 00:00:00'
+    timezone: UTC-8
+  - type: submission
+    label: Paper Submission
+    date: '2024-11-20 00:00:00'
+    timezone: UTC-8
+  city: Bruges
+  country: Belgium
+  start: '2025-04-23'
+  end: '2025-04-25'
+  rankings: 'CCF: N, CORE: B, THCPL: N'
+  tags:
+  - machine-learning
+- title: ESANN
+  year: 2026
+  id: esann26
+  full_name: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+  link: https://www.esann.org/
+  date: April 22 - 24, 2026
+  deadlines:
+  - type: paper
+    label: Paper submission deadline
+    date: '2025-11-26 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Author notification
+    date: '2026-01-23 23:59:59'
+    timezone: AoE
+  - type: registration
+    label: Early registration deadline
+    date: '2026-02-13 23:59:59'
+    timezone: AoE
+  - type: registration
+    label: Final registration deadline
+    date: '2026-04-10 23:59:59'
+    timezone: AoE
+  city: Bruges
+  country: Belgium and Online
+  start: '2026-04-22'
+  end: '2026-04-24'
+  rankings: 'CCF: N, CORE: B, THCPL: N'
+  tags:
+  - machine-learning
+  venue: Crowne Plaza Bruges, Burg 10, 8000 Brugge
+  note: Hybrid event (in-person and online)
+  era_rating: b

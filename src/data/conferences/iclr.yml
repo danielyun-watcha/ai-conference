@@ -1,0 +1,76 @@
+- title: ICLR
+  year: 2025
+  id: iclr25
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2025
+  accepted_papers_url: https://iclr.cc/virtual/2025/papers.html
+  date: April 24-28, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2024-09-27 23:59:59'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2024-10-01 23:59:59'
+    timezone: UTC-12
+  country: Singapore
+  start: '2025-04-24'
+  end: '2025-04-28'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - machine-learning
+  - computer-vision
+  - natural-language-processing
+  - signal-processing
+  - representation-learning
+  venue: Singapore EXPO - 1 Expo Drive, Singapore
+  hindex: 304
+  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
+  era_rating: a
+  city: Singapore
+- title: ICLR
+  year: 2026
+  id: iclr26
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2026
+  date: May 01-05, 2026
+  deadlines:
+  - type: abstract
+    label: Abstract Submission
+    date: '2025-09-19 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2025-09-24 23:59:59'
+    timezone: AoE
+  - type: review_release
+    label: Reviews Released
+    date: '2025-11-11 23:59:59'
+    timezone: AoE
+  - type: rebuttal_end
+    label: Discussion Period End
+    date: '2025-12-03 23:59:59'
+    timezone: AoE
+  - type: notification
+    label: Notification
+    date: '2026-01-25 23:59:59'
+    timezone: AoE
+  country: Brazil
+  start: '2026-05-01'
+  end: '2026-05-05'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
+  tags:
+  - data-mining
+  - machine-learning
+  - natural-language-processing
+  - computer-vision
+  - robotics
+  - mathematics
+  - reinforcement-learning
+  - representation-learning
+  venue: Riocentro Convention and Event Center
+  hindex: 304
+  note: Mandatory abstract deadline on Sep 19, 2025. More info <a href='https://iclr.cc/Conferences/2026/Dates#'>here</a>.
+  era_rating: a
+  city: Rio de Janeiro
