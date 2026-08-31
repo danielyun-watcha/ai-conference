@@ -3,7 +3,6 @@
   id: aamas25
   full_name: International Conference on Autonomous Agents and Multiagent Systems
   link: https://aamas2025.org/
-  accepted_papers_url: https://dblp.org/db/conf/ifaamas/aamas2025.html
   date: May 19-23, 2025
   deadlines:
   - type: abstract
@@ -65,3 +64,23 @@
   - robotics
   venue: Coral Beach Hotel & Resort, Paphos, Cyprus
   era_rating: a
+- title: AAMAS
+  year: 2027
+  id: aamas27
+  full_name: International Conference on Autonomous Agents and Multiagent Systems
+  link: https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference
+  date: May 03, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-10-02 11:59:00'
+    timezone: UTC+0
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-09 11:59:00'
+    timezone: UTC+0
+  city: Hanoi
+  country: Vietnam
+  start: '2027-05-03'
+  end: '2027-05-03'
+  rankings: 'CCF: B, CORE: A*, THCPL: B'

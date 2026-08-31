@@ -3,17 +3,12 @@
   id: icra25
   full_name: IEEE International Conference on Robotics and Automation
   link: https://2025.ieee-icra.org
-  accepted_papers_url: https://dblp.org/db/conf/icra/icra2025.html
   date: May 19-23, 2025
   deadlines:
   - type: submission
     label: Paper Submission
-    date: '2024-07-15 12:00:00'
-    timezone: UTC-4
-  - type: submission
-    label: Paper Submission
-    date: '2024-09-15 00:00:00'
-    timezone: UTC-4
+    date: '2024-09-16 23:59:59'
+    timezone: UTC-7
   city: Atlanta (GA)
   country: USA
   start: '2025-05-19'
@@ -59,14 +54,20 @@
   year: 2027
   id: icra27
   full_name: IEEE International Conference on Robotics and Automation
-  link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/
+  link: https://2027.ieee-icra.org/
+  date: May 24-28, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-09-15 23:59:59'
+    timezone: UTC-7
   city: Seoul
-  country: South Korea
-  venue: COEX, Seoul, South Korea
-  date: May 24 - 28, 2027
+  country: Republic of Korea
   start: '2027-05-24'
   end: '2027-05-28'
-  era_rating: a
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
   tags:
   - robotics
   - computer-vision
+  venue: COEX, Seoul, South Korea
+  era_rating: a

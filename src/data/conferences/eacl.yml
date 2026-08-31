@@ -27,3 +27,19 @@
   venue: Palais des Congrès, Rabat
   note: Submissions via ACL Rolling Review (ARR) only. No EACL in 2025.
   era_rating: a
+- title: EACL
+  year: 2027
+  id: eacl27
+  full_name: The Annual Conference of the European Chapter of the Association for Computational Linguistics
+  link: https://2027.eacl.org/
+  date: March 9-14, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-08-03 23:59:59'
+    timezone: UTC-12
+  city: Athens
+  country: Greece
+  start: '2027-03-09'
+  end: '2027-03-14'
+  rankings: 'CCF: N, CORE: A, THCPL: N'

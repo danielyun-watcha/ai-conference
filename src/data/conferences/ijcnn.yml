@@ -3,7 +3,6 @@
   id: ijcnn2025
   full_name: International Joint Conference on Neural Networks
   link: https://2025.ijcnn.org/
-  accepted_papers_url: https://dblp.org/db/conf/ijcnn/ijcnn2025.html
   date: June 30 - July 5, 2025
   deadlines:
   - type: submission
@@ -54,3 +53,19 @@
   - machine-learning
   venue: MECC Maastricht
   era_rating: a
+- title: IJCNN
+  year: 2027
+  id: ijcnn2027
+  full_name: International Joint Conference on Neural Networks
+  link: https://ijcnn.org/2027
+  date: June 14 - 18, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-01-31 23:59:59'
+    timezone: UTC-12
+  city: Cape Town
+  country: South Africa
+  start: '2027-06-14'
+  end: '2027-06-18'
+  rankings: 'CCF: C, CORE: B, THCPL: B'

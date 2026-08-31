@@ -2,8 +2,7 @@
   year: 2025
   id: ecir25
   full_name: European Conference on Information Retrieval
-  link: https://ecir2025.eu/key-dates/
-  accepted_papers_url: https://dblp.org/db/conf/ecir/ecir2025-1.html
+  link: https://ecir2025.eu/
   date: April 06 - April 10, 2025
   deadlines:
   - type: abstract
@@ -57,15 +56,24 @@
   year: 2027
   id: ecir27
   full_name: European Conference on Information Retrieval
-  link: https://www.ecir2027.co.uk/
-  deadlines: []
+  link: https://ecir2027.co.uk/
+  date: March 21-25, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-09-25 23:59:59'
+    timezone: UTC+0
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-02 23:59:59'
+    timezone: UTC+0
   city: Southampton
-  country: United Kingdom
-  venue: University of Southampton, Southampton, United Kingdom
-  date: March 21 - March 25, 2027
+  country: UK
   start: '2027-03-21'
   end: '2027-03-25'
+  rankings: 'CCF: C, CORE: A, THCPL: B'
   tags:
   - data-mining
+  venue: University of Southampton, Southampton, United Kingdom
   note: More info <a href='https://www.ecir2027.co.uk/'>here</a>. Submission deadlines TBA.
   era_rating: b

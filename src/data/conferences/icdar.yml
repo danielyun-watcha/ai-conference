@@ -3,7 +3,6 @@
   id: icdar2025
   full_name: International Conference on Document Analysis and Recognition
   link: https://www.icdar2025.com/home
-  accepted_papers_url: https://dblp.org/db/conf/icdar/index.html
   date: September 17-21, 2025
   deadlines:
   - type: abstract

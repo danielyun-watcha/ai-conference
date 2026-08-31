@@ -3,7 +3,6 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  accepted_papers_url: https://openaccess.thecvf.com/WACV2025
   date: February 28 - March 4, 2025
   deadlines:
   - type: submission
@@ -85,3 +84,31 @@
   venue: JW Marriott Starpass in Tucson, Arizona, USA
   hindex: 131
   era_rating: a
+- title: WACV
+  year: 2027
+  id: wacv27
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv.thecvf.com/
+  date: Jan 5 - 9, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-06-19 23:59:00'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-06-26 23:59:59'
+    timezone: AoE
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-08-21 23:59:00'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-08-28 23:59:59'
+    timezone: AoE
+  city: Disney Springs
+  country: Buena Vista, FL, USA
+  start: '2027-01-05'
+  end: '2027-01-09'
+  rankings: 'CCF: N, CORE: A, THCPL: N'

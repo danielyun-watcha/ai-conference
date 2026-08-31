@@ -3,7 +3,6 @@
   id: chi25
   full_name: ACM Conference on Human Factors in Computing Systems
   link: https://chi2025.acm.org/
-  accepted_papers_url: https://dblp.org/db/conf/chi/chi2025.html
   date: April 26 - May 1, 2025
   deadlines:
   - type: abstract
@@ -61,3 +60,19 @@
   venue: Centre de Convencions Internacional de Barcelona, Barcelona, Spain
   hindex: 128
   note: Mandatory abstract deadline on Sep 04, 2025. More info <a href='https://chi2026.acm.org/authors/papers/'>here</a>.
+- title: CHI
+  year: 2027
+  id: chi27
+  full_name: ACM Conference on Human Factors in Computing Systems
+  link: https://chi2027.acm.org/
+  date: May 10 - 14, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-09-10 23:59:59'
+    timezone: AoE
+  city: David L. Lawrence Convention Center
+  country: Pittsburgh, USA
+  start: '2027-05-10'
+  end: '2027-05-14'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

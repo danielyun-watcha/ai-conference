@@ -3,7 +3,6 @@
   id: coling25
   full_name: INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS
   link: https://coling2025.org/
-  accepted_papers_url: https://aclanthology.org/volumes/2025.coling-main/
   date: Jan 19 - Jan 24, 2025
   deadlines:
   - type: submission
@@ -21,3 +20,19 @@
   hindex: 73
   note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
   era_rating: a
+- title: COLING
+  year: 2027
+  id: coling27
+  full_name: INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS
+  link: https://2027.coling-iccl.org/
+  date: May 9-14, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-12 23:59:59'
+    timezone: UTC-12
+  city: Macau SAR
+  country: China
+  start: '2027-05-09'
+  end: '2027-05-14'
+  rankings: 'CCF: B, CORE: B, THCPL: B'

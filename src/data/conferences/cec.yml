@@ -48,3 +48,19 @@
   - machine-learning
   venue: Maastricht Exhibition & Congress Centre (MECC)
   era_rating: a
+- title: IEEE CEC
+  year: 2027
+  id: cec2027
+  full_name: IEEE Congress on Evolutionary Computation
+  link: https://ieeecec.org/2027
+  date: July 25-28, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-02-28 23:59:59'
+    timezone: UTC-12
+  city: Edinburgh
+  country: Scotland, UK
+  start: '2027-07-25'
+  end: '2027-07-28'
+  rankings: 'CCF: C, CORE: B, THCPL: N'

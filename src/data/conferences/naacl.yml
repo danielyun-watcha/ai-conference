@@ -3,7 +3,6 @@
   id: naacl25
   full_name: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
   link: https://2025.naacl.org/
-  accepted_papers_url: https://aclanthology.org/events/naacl-2025/
   date: April 29-May 4, 2025
   deadlines:
   - type: submission
@@ -20,3 +19,19 @@
   hindex: 132
   note: All submissions must be done through ARR. More info <a href='https://2025.naacl.org/calls/papers/'>here</a>.
   era_rating: a
+- title: NAACL
+  year: 2027
+  id: naacl27
+  full_name: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
+  link: https://2027.naacl.org/
+  date: June 1-5, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-12 23:59:59'
+    timezone: UTC-12
+  city: San Francisco
+  country: California, USA
+  start: '2027-06-01'
+  end: '2027-06-05'
+  rankings: 'CCF: B, CORE: A, THCPL: B'

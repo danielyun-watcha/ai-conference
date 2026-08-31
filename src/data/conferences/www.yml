@@ -3,7 +3,6 @@
   id: www25
   full_name: International World Wide Web Conferences
   link: https://www2025.thewebconf.org/
-  accepted_papers_url: https://dblp.org/db/conf/www/www2025.html
   date: April 28 - May 2, 2025
   deadlines:
   - type: abstract
@@ -66,17 +65,19 @@
   year: 2027
   id: www27
   full_name: International World Wide Web Conferences
-  link: https://www2027.thewebconf.org/
-  date: TBD
+  link: https://acmweb2027.org/
+  date: May 10 - 14, 2027
   deadlines:
   - type: abstract
     label: Abstract Deadline
-    date: TBD
+    date: '2026-10-11 23:59:59'
     timezone: AoE
   - type: submission
     label: Paper Submission
-    date: TBD
+    date: '2026-10-18 23:59:59'
     timezone: AoE
   city: Dublin
   country: Ireland
+  start: '2027-05-10'
+  end: '2027-05-14'
   rankings: 'CCF: A, CORE: A*, THCPL: A'

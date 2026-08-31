@@ -3,7 +3,6 @@
   id: acl25
   full_name: Annual Meeting of the Association for Computational Linguistics
   link: https://2025.aclweb.org/
-  accepted_papers_url: https://aclanthology.org/volumes/2025.acl-long/
   date: July 27 - August 1, 2025
   deadlines:
   - type: paper
@@ -65,3 +64,19 @@
   venue: Manchester Grand Hyatt San Diego, 1 Market Place, San Diego, CA 92101
   note: ARR commitment deadline on March 14th, 2026.
   era_rating: a
+- title: ACL
+  year: 2027
+  id: acl27
+  full_name: Annual Meeting of the Association for Computational Linguistics
+  link: https://2027.aclweb.org/
+  date: August 17-22, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: UTC-12
+  city: Kyoto
+  country: Japan
+  start: '2027-08-17'
+  end: '2027-08-22'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

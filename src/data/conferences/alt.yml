@@ -3,7 +3,6 @@
   id: alt2025
   full_name: International Conference on Algorithmic Learning Theory
   link: https://algorithmiclearningtheory.org/alt2025/
-  accepted_papers_url: https://proceedings.mlr.press/v272/
   date: February 24-27, 2025
   deadlines:
   - type: submission
@@ -51,3 +50,19 @@
   venue: Fields Institute, Toronto, Canada
   note: In-person conference. ShaiFest event on February 27, 2026
   era_rating: a
+- title: ALT
+  year: 2027
+  id: alt2027
+  full_name: International Conference on Algorithmic Learning Theory
+  link: https://algorithmiclearningtheory.org/alt2027/
+  date: March 9-12, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-12 23:59:59'
+    timezone: AoE
+  city: Leiden
+  country: Netherlands
+  start: '2027-03-09'
+  end: '2027-03-12'
+  rankings: 'CCF: C, CORE: B, THCPL: B'

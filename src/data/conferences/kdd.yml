@@ -3,7 +3,6 @@
   id: sigkdd25
   full_name: ACM Knowledge Discovery and Data Mining
   link: https://kdd2025.kdd.org/
-  accepted_papers_url: https://kdd2025.kdd.org/research-track-papers-2/
   date: August 3-7, 2025
   deadlines:
   - type: abstract
@@ -76,3 +75,23 @@
   hindex: 124
   note: Second cycle deadlines shown. First cycle deadlines were July 24/31, 2025. AI for Sciences Track accepts submissions only in second cycle.
   era_rating: a
+- title: SIGKDD
+  year: 2027
+  id: sigkdd27
+  full_name: ACM Knowledge Discovery and Data Mining
+  link: https://kdd2027.kdd.org/
+  date: August 1-5, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-07-19 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-07-26 23:59:59'
+    timezone: AoE
+  city: San Jose
+  country: California, USA
+  start: '2027-08-01'
+  end: '2027-08-05'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'
