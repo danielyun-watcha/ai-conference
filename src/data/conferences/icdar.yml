@@ -2,9 +2,8 @@
   year: 2025
   id: icdar2025
   full_name: International Conference on Document Analysis and Recognition
-  link: https://www.icdar2025.com/home
-  accepted_papers_url: https://dblp.org/db/conf/icdar/index.html
-  date: September 17-21, 2025
+  link: https://www.icdar2025.com/
+  date: September 17-19, 2025
   deadlines:
   - type: abstract
     label: Abstract submission
@@ -29,7 +28,7 @@
   city: Wuhan
   country: China
   start: '2025-09-17'
-  end: '2025-09-21'
+  end: '2025-09-19'
   rankings: 'CCF: C, CORE: A, THCPL: B'
   tags:
   - computer-vision
@@ -38,7 +37,7 @@
   id: icdar2026
   full_name: International Conference on Document Analysis and Recognition
   link: https://icdar2026.org/
-  date: August 30 - September 4, 2026
+  date: August 31-September 2, 2026
   deadlines:
   - type: abstract
     label: Abstract submission
@@ -66,10 +65,30 @@
     timezone: AoE
   city: Vienna
   country: Austria
-  start: '2026-08-30'
-  end: '2026-09-04'
+  start: '2026-08-31'
+  end: '2026-09-02'
   rankings: 'CCF: C, CORE: A, THCPL: B'
   tags:
   - computer-vision
   venue: TU Wien, Campus Gußhaus
   era_rating: a
+- title: ICDAR
+  year: 2027
+  id: icdar2027
+  full_name: International Conference on Document Analysis and Recognition
+  link: https://icdar2027.org/
+  date: August 18 - 22, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2027-01-31 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2027-02-20 23:59:59'
+    timezone: AoE
+  city: Kuala Lumpur
+  country: Malaysia
+  start: '2027-08-18'
+  end: '2027-08-22'
+  rankings: 'CCF: C, CORE: A, THCPL: B'

@@ -2,17 +2,20 @@
   year: 2025
   id: corl25
   full_name: The Conference on Robot Learning
-  link: https://www.corl.org/
-  accepted_papers_url: https://2025.corl.org/program/main-conference
-  date: September 27-30, 2025
+  link: https://2025.corl.org/
+  date: September 28-30, 2025
   deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2025-04-23 23:59:00'
+    timezone: AoE
   - type: submission
     label: Paper Submission
     date: '2025-04-30 23:59:59'
     timezone: AoE
   city: Seoul
   country: Korea
-  start: '2025-09-27'
+  start: '2025-09-28'
   end: '2025-09-30'
   rankings: 'CCF: N, CORE: N, THCPL: N'
   tags:
@@ -25,7 +28,7 @@
   id: corl26
   full_name: The Conference on Robot Learning
   link: https://www.corl.org/
-  date: November 10-12, 2026
+  date: November 9-11, 2026
   deadlines:
   - type: abstract
     label: Abstract Deadline
@@ -37,8 +40,8 @@
     timezone: AoE
   city: Austin
   country: Texas, USA
-  start: '2026-11-10'
-  end: '2026-11-12'
+  start: '2026-11-09'
+  end: '2026-11-11'
   rankings: 'CCF: N, CORE: N, THCPL: N'
   tags:
   - machine-learning

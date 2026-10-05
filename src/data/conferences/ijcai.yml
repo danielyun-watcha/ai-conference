@@ -3,8 +3,7 @@
   id: ijcai25
   full_name: International Joint Conference on Artificial Intelligence
   link: https://2025.ijcai.org/
-  accepted_papers_url: https://www.ijcai.org/proceedings/2025/
-  date: August 16-22, 2025
+  date: August 19-22, 2025
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -20,7 +19,7 @@
     timezone: AoE
   city: Montreal
   country: Canada.
-  start: '2025-08-16'
+  start: '2025-08-19'
   end: '2025-08-22'
   rankings: 'CCF: B, CORE: A*, THCPL: B'
   tags:
@@ -31,7 +30,7 @@
   id: ijcai26
   full_name: International Joint Conference on Artificial Intelligence
   link: https://2026.ijcai.org/
-  date: August 15-21, 2026
+  date: August 18-21, 2026
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -63,10 +62,24 @@
     timezone: AoE
   city: Bremen
   country: Germany
-  start: '2026-08-15'
+  start: '2026-08-18'
   end: '2026-08-21'
   rankings: 'CCF: B, CORE: A*, THCPL: B'
   tags:
   - machine-learning
   venue: Bremen Exhibition Center
   era_rating: a
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://www.ijcai.org/node/8
+  date: August 7-13 and August 15-17, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: UTC-12
+  city: Kyoto
+  country: Japan and Hengqin, China
+  rankings: 'CCF: B, CORE: A*, THCPL: B'

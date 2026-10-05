@@ -3,8 +3,7 @@
   id: icann2025
   full_name: International Conference on Artificial Neural Networks
   link: https://e-nns.org/icann2025/
-  accepted_papers_url: https://dblp.org/db/conf/icann/icann2025-1.html
-  date: Sept 9-12, 2025
+  date: September 9-11, 2025
   deadlines:
   - type: submission
     label: Paper Submission
@@ -13,7 +12,7 @@
   city: Kaunas
   country: Lithuania
   start: '2025-09-09'
-  end: '2025-09-12'
+  end: '2025-09-11'
   rankings: 'CCF: C, CORE: C, THCPL: N'
   tags:
   - machine-learning
@@ -26,7 +25,7 @@
   id: icann2026
   full_name: International Conference on Artificial Neural Networks
   link: https://e-nns.org/icann2026/
-  date: Sept 14-17, 2026
+  date: September 15-17, 2026
   deadlines:
   - type: abstract
     label: Abstract and Full Paper Submission
@@ -50,7 +49,7 @@
     timezone: AoE
   city: Conference center of the School of Psychology
   country: University of Padua, Italy
-  start: '2026-09-14'
+  start: '2026-09-15'
   end: '2026-09-17'
   rankings: 'CCF: C, CORE: C, THCPL: N'
   tags:

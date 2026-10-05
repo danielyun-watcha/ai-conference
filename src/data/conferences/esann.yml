@@ -3,7 +3,6 @@
   id: esann25
   full_name: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
   link: https://www.esann.org/
-  accepted_papers_url: https://www.esann.org/proceedings/2025
   date: April 23 - April 25, 2025
   deadlines:
   - type: abstract
@@ -15,7 +14,7 @@
     date: '2024-11-20 00:00:00'
     timezone: UTC-8
   city: Bruges
-  country: Belgium
+  country: Belgium and Online
   start: '2025-04-23'
   end: '2025-04-25'
   rankings: 'CCF: N, CORE: B, THCPL: N'
@@ -54,3 +53,19 @@
   venue: Crowne Plaza Bruges, Burg 10, 8000 Brugge
   note: Hybrid event (in-person and online)
   era_rating: b
+- title: ESANN
+  year: 2027
+  id: esann27
+  full_name: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+  link: https://www.esann.org/
+  date: April 21 - 23, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-11-18 23:59:59'
+    timezone: UTC-8
+  city: Bruges
+  country: Belgium and Online
+  start: '2027-04-21'
+  end: '2027-04-23'
+  rankings: 'CCF: N, CORE: B, THCPL: N'

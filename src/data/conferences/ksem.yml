@@ -3,8 +3,7 @@
   id: ksem25
   full_name: International Conference on Knowledge Science, Engineering and Management
   link: https://ksem2025.scimeeting.cn/
-  accepted_papers_url: https://dblp.org/db/conf/ksem/index.html
-  date: August 4-6, 2025
+  date: August 5-7, 2025
   deadlines:
   - type: submission
     label: Paper submission deadline
@@ -20,8 +19,8 @@
     timezone: AoE
   city: Macao SAR
   country: China
-  start: '2025-08-04'
-  end: '2025-08-06'
+  start: '2025-08-05'
+  end: '2025-08-07'
   rankings: 'CCF: C, CORE: C, THCPL: N'
   tags:
   - machine-learning
@@ -32,14 +31,14 @@
   id: ksem26
   full_name: International Conference on Knowledge Science, Engineering and Management
   link: https://ksem2026.rosc.org.cn/
-  date: July 17-19, 2026
+  date: July 17-18, 2026
   deadlines:
   - type: submission
     label: Paper Submission
-    date: '2026-01-15 23:59:59'
-    timezone: UTC+0
+    date: '2026-02-28 23:59:00'
+    timezone: AoE
   city: Beijing
   country: China
   start: '2026-07-17'
-  end: '2026-07-19'
+  end: '2026-07-18'
   rankings: 'CCF: C, CORE: C, THCPL: N'

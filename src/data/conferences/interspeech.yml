@@ -3,24 +3,23 @@
   id: interspeech25
   full_name: Conference of the International Speech Communication Association
   link: https://www.interspeech2025.org/home
-  accepted_papers_url: https://www.isca-archive.org/interspeech_2025/
-  date: August 17-22, 2025
+  date: August 18-21, 2025
   deadlines:
   - type: submission
     label: Paper Submission
-    date: '2025-02-19 23:59:59'
-    timezone: UTC+0
+    date: '2025-02-12 23:59:00'
+    timezone: UTC-12
   city: Rotterdam
   country: Netherlands
-  start: '2025-08-17'
-  end: '2025-08-22'
+  start: '2025-08-18'
+  end: '2025-08-21'
   rankings: 'CCF: B, CORE: A, THCPL: N'
 - title: InterSpeech
   year: 2026
   id: interspeech26
   full_name: Conference of the International Speech Communication Association
   link: https://interspeech2026.org/
-  date: September 27 - October 1, 2026
+  date: September 28 - October 1, 2026
   deadlines:
   - type: submission
     label: Paper submission deadline
@@ -48,7 +47,7 @@
     timezone: AoE
   city: Sydney
   country: Australia
-  start: '2026-09-27'
+  start: '2026-09-28'
   end: '2026-10-01'
   rankings: 'CCF: B, CORE: A, THCPL: N'
   tags:
@@ -56,3 +55,19 @@
   - signal-processing
   venue: International Convention Centre (ICC) Sydney
   era_rating: a
+- title: InterSpeech
+  year: 2027
+  id: interspeech27
+  full_name: Conference of the International Speech Communication Association
+  link: https://interspeech2027.org/
+  date: August 29 - September 2, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-02-09 23:59:59'
+    timezone: UTC+0
+  city: São Paulo
+  country: Brazil
+  start: '2027-08-29'
+  end: '2027-09-02'
+  rankings: 'CCF: B, CORE: A, THCPL: N'

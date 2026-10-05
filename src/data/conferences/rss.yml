@@ -2,8 +2,7 @@
   year: 2025
   id: rss25
   full_name: Robotics Science and Systems
-  link: https://roboticsconference.org
-  accepted_papers_url: https://www.roboticsproceedings.org/rss21/
+  link: https://roboticsconference.org/2025/
   date: June 21-25, 2025
   deadlines:
   - type: abstract
@@ -28,7 +27,7 @@
   year: 2026
   id: rss26
   full_name: Robotics Science and Systems
-  link: https://roboticsconference.org
+  link: https://roboticsconference.org/2026/
   date: July 13-17, 2026
   deadlines:
   - type: abstract
@@ -70,3 +69,19 @@
   venue: University of Technology Sydney
   hindex: 83
   era_rating: a
+- title: RSS
+  year: 2027
+  id: rss27
+  full_name: Robotics Science and Systems
+  link: https://roboticsconference.org/
+  date: July 6-11, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-12-04 23:59:00'
+    timezone: AoE
+  city: Athens
+  country: Greece
+  start: '2027-07-06'
+  end: '2027-07-11'
+  rankings: 'CCF: N, CORE: A*, THCPL: A'

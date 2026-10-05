@@ -3,8 +3,7 @@
   id: iccv25
   full_name: IEEE International Conference on Computer Vision
   link: https://iccv.thecvf.com/Conferences/2025
-  accepted_papers_url: https://openaccess.thecvf.com/ICCV2025?day=all
-  date: October 19-25, 2025
+  date: October 21-23, 2025
   deadlines:
   - type: abstract
     label: Abstract submission
@@ -31,9 +30,9 @@
     date: '2025-06-20 23:59:59'
     timezone: AoE
   city: Honolulu
-  country: Hawaii
-  start: '2025-10-19'
-  end: '2025-10-25'
+  country: Hawaii (Hybrid)
+  start: '2025-10-21'
+  end: '2025-10-23'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - machine-learning
@@ -41,3 +40,19 @@
   venue: Hawaii Convention Center
   note: All info can be found <a href='https://iccv.thecvf.com/Conferences/2025/CallForPapers'>here</a>.
   era_rating: a
+- title: ICCV
+  year: 2027
+  id: iccv27
+  full_name: IEEE International Conference on Computer Vision
+  link: https://iccv.thecvf.com/Conferences/2027
+  date: October 2-8, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: AoE
+  city: Hong Kong
+  country: China
+  start: '2027-10-02'
+  end: '2027-10-08'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

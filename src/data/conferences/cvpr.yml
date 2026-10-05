@@ -3,8 +3,7 @@
   id: cvpr25
   full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   link: https://cvpr.thecvf.com/Conferences/2025/CallForPapers
-  accepted_papers_url: https://openaccess.thecvf.com/CVPR2025?day=all
-  date: June 10-17, 2025
+  date: June 13-15, 2025
   deadlines:
   - type: abstract
     label: Abstract Deadline
@@ -15,9 +14,9 @@
     date: '2024-11-14 23:59:00'
     timezone: UTC-8
   city: Nashville
-  country: Tennessee, USA
-  start: '2025-06-10'
-  end: '2025-06-17'
+  country: Tennessee, USA (Hybrid)
+  start: '2025-06-13'
+  end: '2025-06-15'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - computer-vision
@@ -31,7 +30,7 @@
   id: cvpr26
   full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   link: https://cvpr.thecvf.com/Conferences/2026
-  date: June 3-7, 2026
+  date: June 5-7, 2026
   deadlines:
   - type: abstract
     label: Abstract Submission
@@ -62,8 +61,8 @@
     date: '2026-02-20 23:59:59'
     timezone: AoE
   city: Denver
-  country: Colorado, United States
-  start: '2026-06-03'
+  country: Colorado, United States (Hybrid)
+  start: '2026-06-05'
   end: '2026-06-07'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
@@ -77,3 +76,23 @@
   note: Abstract submission deadline on Nov 7th, paper submission deadline on Nov 13th, supplementary materials deadline on Nov 20th. Reviews released on Jan 22nd, rebuttal period Jan 22nd-29th, and final
     decisions on Feb 20th. Main conference June 5-7, workshops/tutorials June 3-4.
   era_rating: a
+- title: CVPR
+  year: 2027
+  id: cvpr27
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr.thecvf.com/Conferences/2027
+  date: June 20-25, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-11-10 23:59:00'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2026-11-16 23:59:00'
+    timezone: UTC-12
+  city: Seattle
+  country: WA, United States
+  start: '2027-06-20'
+  end: '2027-06-25'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

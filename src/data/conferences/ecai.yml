@@ -3,8 +3,7 @@
   id: ecai25
   full_name: European Conference on Artificial Intelligence
   link: https://ecai2025.org/deadlines/
-  accepted_papers_url: https://dblp.org/db/conf/ecai/ecai2025.html
-  date: October 25-30, 2025
+  date: October 27-30, 2025
   deadlines:
   - type: abstract
     label: Abstract deadline
@@ -36,7 +35,7 @@
     timezone: AoE
   city: Bologna
   country: ITALY
-  start: '2025-10-25'
+  start: '2025-10-27'
   end: '2025-10-30'
   rankings: 'CCF: B, CORE: A, THCPL: N'
   tags:
@@ -48,6 +47,7 @@
   id: ecai26
   full_name: European Conference on Artificial Intelligence
   link: https://2026.ijcai.org/
+  date: August 18-21, 2026
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -77,14 +77,29 @@
     label: Camera-ready deadline
     date: '2026-05-15 23:59:59'
     timezone: AoE
-  date: August 15-21, 2026
-  start: 2026-08-15
-  end: 2026-08-21
-  tags:
-  - machine-learning
   city: Bremen
   country: Germany
+  start: '2026-08-18'
+  end: '2026-08-21'
   rankings: 'CCF: B, CORE: A, THCPL: N'
+  tags:
+  - machine-learning
   venue: University of Bremen and Bremen Exhibition Center
   note: Joint conference with IJCAI 2026 (IJCAI-ECAI 2026). All important dates can be found <a href='https://2026.ijcai.org/important-dates/'>here</a>.
   era_rating: a
+- title: ECAI
+  year: 2027
+  id: ecai27
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2027.org/
+  date: October 2-7, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-04-14 23:59:59'
+    timezone: AoE
+  city: Athens
+  country: Greece
+  start: '2027-10-02'
+  end: '2027-10-07'
+  rankings: 'CCF: B, CORE: A, THCPL: N'

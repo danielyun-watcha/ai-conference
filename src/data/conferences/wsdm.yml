@@ -3,21 +3,20 @@
   id: wsdm25
   full_name: International Conference on Web Search and Data Mining
   link: https://www.wsdm-conference.org/2025/
-  accepted_papers_url: https://www.wsdm-conference.org/2025/accepted-papers/
-  date: March 10 - March 14, 2025
+  date: March 11-13, 2025
   deadlines:
   - type: abstract
-    label: Abstract submission
-    date: '2024-08-07 23:59:00'
-    timezone: AoE
-  - type: paper
-    label: Paper submission
-    date: '2024-08-14 23:59:00'
-    timezone: AoE
+    label: Abstract Deadline
+    date: '2024-08-09 23:59:59'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2024-08-14 23:59:59'
+    timezone: UTC-12
   city: Hannover
   country: Germany
-  start: '2025-03-10'
-  end: '2025-03-14'
+  start: '2025-03-11'
+  end: '2025-03-13'
   rankings: 'CCF: B, CORE: A, THCPL: A'
   tags:
   - web-search
@@ -30,7 +29,7 @@
   id: wsdm26
   full_name: International Conference on Web Search and Data Mining
   link: https://wsdm-conference.org/2026/
-  date: February 22 - 26, 2026
+  date: February 23-25, 2026
   deadlines:
   - type: abstract
     label: Abstract submission (full papers)
@@ -58,8 +57,8 @@
     timezone: AoE
   city: Boise
   country: Idaho, USA
-  start: '2026-02-22'
-  end: '2026-02-26'
+  start: '2026-02-23'
+  end: '2026-02-25'
   rankings: 'CCF: B, CORE: A, THCPL: A'
   tags:
   - web-search
@@ -67,12 +66,12 @@
   - recommender-systems
   venue: Boise, Idaho, USA
   era_rating: b
-  accepted_papers_url: https://wsdm-conference.org/2026/index.php/accepted-papers/
 - title: WSDM
   year: 2027
   id: wsdm27
-  full_name: ACM International Conference on Web Search and Data Mining
-  link: https://www.wsdm-conference.org/
+  full_name: International Conference on Web Search and Data Mining
+  link: https://wsdm-conference.org/2027/
+  date: February 15 - 19, 2027
   deadlines:
   - type: abstract
     label: Abstract submission
@@ -86,15 +85,14 @@
     label: Author notification
     date: '2026-11-02 23:59:59'
     timezone: AoE
-  date: February 15-19, 2027
+  city: Cordis
+  country: Hong Kong SAR, China
   start: '2027-02-15'
   end: '2027-02-19'
-  city: Hong Kong
-  country: China
-  venue: Cordis, Hong Kong
+  rankings: 'CCF: B, CORE: A, THCPL: A'
   tags:
   - web-search
   - data-mining
   - recommender-systems
+  venue: Cordis, Hong Kong
   era_rating: b
-  rankings: 'CCF: B, CORE: A*, THCPL: B'

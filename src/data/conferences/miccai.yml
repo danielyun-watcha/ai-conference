@@ -3,8 +3,7 @@
   id: miccai25
   full_name: International Conference on Medical Image Computing and Computer Assisted Intervention
   link: https://conferences.miccai.org/2025/en/default.asp
-  accepted_papers_url: https://dblp.org/db/conf/miccai/miccai2025-1.html
-  date: Sep 23-27, 2025
+  date: Sep 24-26, 2025
   deadlines:
   - type: abstract
     label: Abstract Deadline
@@ -16,15 +15,15 @@
     timezone: UTC-8
   city: Daejeon
   country: Republic of Korea
-  start: '2025-09-23'
-  end: '2025-09-27'
+  start: '2025-09-24'
+  end: '2025-09-26'
   rankings: 'CCF: B, CORE: A, THCPL: B'
 - title: MICCAI
   year: 2026
   id: miccai26
   full_name: International Conference on Medical Image Computing and Computer Assisted Intervention
   link: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
-  date: Oct 4-8, 2026
+  date: September 28-30, 2026
   deadlines:
   - type: abstract
     label: Abstract Submission
@@ -58,13 +57,53 @@
     label: Camera-Ready (All Other Papers)
     date: '2026-06-26 23:59:59'
     timezone: UTC-08
-  city: ADNEC Centre
-  country: Abu Dhabi, U.A.E.
-  start: '2026-10-04'
-  end: '2026-10-08'
+  city: Strasbourg
+  country: France
+  start: '2026-09-28'
+  end: '2026-09-30'
   rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - computer-vision
   venue: ADNEC Centre Abu Dhabi
   hindex: 98
   era_rating: a
+- title: MICCAI
+  year: 2027
+  id: miccai27
+  full_name: International Conference on Medical Image Computing and Computer Assisted Intervention
+  link: https://conferences.miccai.org/2027/en/
+  date: September 26 - October 1, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: TBD
+    timezone: UTC-8
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: UTC-8
+  city: Auckland
+  country: New Zealand
+  start: '2027-09-26'
+  end: '2027-10-01'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
+- title: MICCAI
+  year: 2028
+  id: miccai28
+  full_name: International Conference on Medical Image Computing and Computer Assisted Intervention
+  link: https://conferences.miccai.org/2028/en/
+  date: Oct 16-20, 2028
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: TBD
+    timezone: UTC-8
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: UTC-8
+  city: São Paulo
+  country: Brazil
+  start: '2028-10-16'
+  end: '2028-10-20'
+  rankings: 'CCF: B, CORE: A, THCPL: B'

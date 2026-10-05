@@ -1,19 +1,28 @@
 - title: COLING
   year: 2025
   id: coling25
-  full_name: INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS
+  full_name: International Conference on Computational Linguistics
   link: https://coling2025.org/
-  accepted_papers_url: https://aclanthology.org/volumes/2025.coling-main/
-  date: Jan 19 - Jan 24, 2025
+  date: January 21-24 (in-person) and 27-28 (virtual), 2025
   deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2024-06-15 23:59:00'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2024-08-15 23:59:00'
+    timezone: UTC-12
   - type: submission
     label: Paper Submission
     date: '2024-09-16 23:59:59'
     timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2024-10-20 23:59:00'
+    timezone: UTC-12
   city: Abu Dhabi
-  country: UAE
-  start: '2025-01-19'
-  end: '2025-01-24'
+  country: UAE / Online
   rankings: 'CCF: B, CORE: B, THCPL: B'
   tags:
   - natural-language-processing
@@ -21,3 +30,23 @@
   hindex: 73
   note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
   era_rating: a
+- title: COLING
+  year: 2027
+  id: coling27
+  full_name: International Conference on Computational Linguistics
+  link: https://2027.coling-iccl.org/
+  date: May 9-14, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-12 23:59:59'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2026-12-23 23:59:59'
+    timezone: UTC-12
+  city: Macau SAR
+  country: China
+  start: '2027-05-09'
+  end: '2027-05-14'
+  rankings: 'CCF: B, CORE: B, THCPL: B'

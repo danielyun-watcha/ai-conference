@@ -3,17 +3,16 @@
   id: uai25
   full_name: Conference on Uncertainty in Artificial Intelligence
   link: https://www.auai.org/uai2025/
-  accepted_papers_url: https://proceedings.mlr.press/v286/
-  date: July 21-25, 2025
+  date: July 22-24, 2025
   deadlines:
   - type: submission
     label: Paper Submission
     date: '2025-02-10 23:59:59'
     timezone: AoE
   city: Rio de Janeiro
-  country: Brazil
-  start: '2025-07-21'
-  end: '2025-07-25'
+  country: Brazil (Hybrid)
+  start: '2025-07-22'
+  end: '2025-07-24'
   rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - machine-learning
@@ -23,16 +22,16 @@
   id: uai26
   full_name: Conference on Uncertainty in Artificial Intelligence
   link: https://www.auai.org/uai2026/
-  date: August 17-21, 2026
+  date: August 18-20, 2026
   deadlines:
   - type: submission
     label: Paper Submission
     date: '2026-02-25 23:59:59'
     timezone: AoE
   city: Amsterdam
-  country: Netherlands
-  start: '2026-08-17'
-  end: '2026-08-21'
+  country: Netherlands (Hybrid)
+  start: '2026-08-18'
+  end: '2026-08-20'
   rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - machine-learning

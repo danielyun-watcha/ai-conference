@@ -1,8 +1,28 @@
 - title: RuleML+RR
+  year: 2025
+  id: rulemlrr2025
+  full_name: International Joint Conference on Rules and Reasoning
+  link: https://2025.declarativeai.net/events/ruleml-rr/cfp
+  date: September 22-24, 2025
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2025-06-20 23:59:00'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2025-06-20 23:59:00'
+    timezone: AoE
+  city: Istanbul
+  country: Turkey
+  start: '2025-09-22'
+  end: '2025-09-24'
+  rankings: 'CCF: N, CORE: B, THCPL: N'
+- title: RuleML+RR
   year: 2026
   id: rulemlrr2026
   full_name: International Joint Conference on Rules and Reasoning
-  link: https://2026.declarativeai.net/events/ruleml-rr
+  link: https://2026.declarativeai.net/ruleml-rr
   date: August 24-26, 2026
   deadlines:
   - type: abstract

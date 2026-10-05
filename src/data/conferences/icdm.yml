@@ -3,8 +3,7 @@
   id: icdm2025
   full_name: IEEE International Conference on Data Mining
   link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
-  accepted_papers_url: https://dblp.org/db/conf/icdm/icdm2025.html
-  date: November 12-15, 2025
+  date: November 13-15, 2025
   deadlines:
   - type: paper
     label: Full Paper Submission
@@ -20,7 +19,7 @@
     timezone: AoE
   city: Washington DC
   country: USA
-  start: '2025-11-12'
+  start: '2025-11-13'
   end: '2025-11-15'
   rankings: 'CCF: B, CORE: A*, THCPL: B'
   tags:

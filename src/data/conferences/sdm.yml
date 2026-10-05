@@ -3,7 +3,6 @@
   id: sdm2025
   full_name: SIAM International Conference on Data Mining
   link: https://www.siam.org/conferences-events/siam-conferences/sdm25
-  accepted_papers_url: https://dblp.org/db/conf/sdm/sdm2025.html
   date: May 1-3, 2025
   deadlines:
   - type: abstract
@@ -29,27 +28,27 @@
   - recommender-systems
 - title: SDM
   year: 2026
-  id: sdm26
+  id: sdm2026
   full_name: SIAM International Conference on Data Mining
   link: https://www.siam.org/conferences-events/siam-conferences/sdm26/
+  date: November 19-20, 2026
   deadlines:
   - type: abstract
-    label: Abstract submission deadline
+    label: Abstract Deadline
     date: '2026-04-10 23:59:59'
     timezone: AoE
-  - type: paper
-    label: Paper submission deadline
+  - type: submission
+    label: Paper Submission
     date: '2026-04-17 23:59:59'
     timezone: AoE
-  date: November 19-20, 2026
-  start: 2026-11-19
-  end: 2026-11-20
   city: Salt Lake City
-  country: USA
-  venue: Calvin L. Rampton Salt Palace Convention Center
+  country: Utah, USA
+  start: '2026-11-19'
+  end: '2026-11-20'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - data-mining
   - machine-learning
   - recommender-systems
-  rankings: 'CCF: B, CORE: A, ERA: A'
+  venue: Calvin L. Rampton Salt Palace Convention Center
   note: Joint with SIAM IS26 and MDS26.

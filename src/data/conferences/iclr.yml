@@ -3,8 +3,7 @@
   id: iclr25
   full_name: International Conference on Learning Representations
   link: https://iclr.cc/Conferences/2025
-  accepted_papers_url: https://iclr.cc/virtual/2025/papers.html
-  date: April 24-28, 2025
+  date: April 24-26, 2025
   deadlines:
   - type: abstract
     label: Abstract Deadline
@@ -16,7 +15,7 @@
     timezone: UTC-12
   country: Singapore
   start: '2025-04-24'
-  end: '2025-04-28'
+  end: '2025-04-26'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - machine-learning
@@ -34,7 +33,7 @@
   id: iclr26
   full_name: International Conference on Learning Representations
   link: https://iclr.cc/Conferences/2026
-  date: May 01-05, 2026
+  date: April 23-25, 2026
   deadlines:
   - type: abstract
     label: Abstract Submission
@@ -56,9 +55,10 @@
     label: Notification
     date: '2026-01-25 23:59:59'
     timezone: AoE
+  city: Rio de Janeiro
   country: Brazil
-  start: '2026-05-01'
-  end: '2026-05-05'
+  start: '2026-04-23'
+  end: '2026-04-25'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - data-mining
@@ -73,4 +73,23 @@
   hindex: 304
   note: Mandatory abstract deadline on Sep 19, 2025. More info <a href='https://iclr.cc/Conferences/2026/Dates#'>here</a>.
   era_rating: a
-  city: Rio de Janeiro
+- title: ICLR
+  year: 2027
+  id: iclr27
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2027
+  date: April 26-30, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-09-18 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-09-25 23:59:59'
+    timezone: AoE
+  city: San Francisco
+  country: CA, USA
+  start: '2027-04-26'
+  end: '2027-04-30'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

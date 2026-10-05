@@ -3,8 +3,7 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  accepted_papers_url: https://openaccess.thecvf.com/WACV2025
-  date: February 28 - March 4, 2025
+  date: March 1-3, 2025
   deadlines:
   - type: submission
     label: Paper Submission
@@ -15,9 +14,9 @@
     date: '2024-09-09 23:59:59'
     timezone: UTC-7
   city: Tucson
-  country: Arizona, USA
-  start: '2025-02-28'
-  end: '2025-03-04'
+  country: Arizona, USA (Hybrid)
+  start: '2025-03-01'
+  end: '2025-03-03'
   rankings: 'CCF: N, CORE: A, THCPL: N'
   tags:
   - machine-learning
@@ -27,8 +26,8 @@
   year: 2026
   id: wacv26
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: https://wacv.thecvf.com/
-  date: Mar 6 - 10, 2026
+  link: https://wacv.thecvf.com/Conferences/2026
+  date: March 8-10, 2026
   deadlines:
   - type: registration
     label: Round 1 Paper Registration
@@ -75,8 +74,8 @@
     date: '2026-01-10 23:59:59'
     timezone: AoE
   city: Tucson
-  country: Arizona, USA
-  start: '2026-03-06'
+  country: Arizona, USA (Hybrid)
+  start: '2026-03-08'
   end: '2026-03-10'
   rankings: 'CCF: N, CORE: A, THCPL: N'
   tags:
@@ -85,3 +84,31 @@
   venue: JW Marriott Starpass in Tucson, Arizona, USA
   hindex: 131
   era_rating: a
+- title: WACV
+  year: 2027
+  id: wacv27
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv.thecvf.com/
+  date: Jan 4 - 8, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-06-19 23:59:00'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-06-26 23:59:59'
+    timezone: AoE
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-08-21 23:59:00'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2026-08-28 23:59:59'
+    timezone: AoE
+  city: Disney Springs
+  country: Buena Vista, FL, USA
+  start: '2027-01-04'
+  end: '2027-01-08'
+  rankings: 'CCF: N, CORE: A, THCPL: N'
