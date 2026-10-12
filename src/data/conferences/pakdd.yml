@@ -3,8 +3,7 @@
   id: pakdd25
   full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
   link: https://pakdd2025.org
-  accepted_papers_url: https://dblp.org/db/conf/pakdd/index.html
-  date: June 10-13, 2025
+  date: June 11-13, 2025
   deadlines:
   - type: paper
     label: Paper submission deadline
@@ -20,7 +19,7 @@
     timezone: AoE
   city: Sydney
   country: Australia
-  start: '2025-06-10'
+  start: '2025-06-11'
   end: '2025-06-13'
   rankings: 'CCF: C, CORE: B, THCPL: N'
   tags:
@@ -55,3 +54,19 @@
   - data-mining
   - machine-learning
   - recommender-systems
+- title: PAKDD
+  year: 2027
+  id: pakdd27
+  full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  link: https://www.pakdd2027.org/
+  date: June 29-July 2, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2026-11-20 23:59:59'
+    timezone: AoE
+  city: Wellington
+  country: New Zealand
+  start: '2027-06-29'
+  end: '2027-07-02'
+  rankings: 'CCF: C, CORE: B, THCPL: N'

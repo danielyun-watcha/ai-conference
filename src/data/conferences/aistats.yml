@@ -3,7 +3,6 @@
   id: aistats25
   full_name: International Conference on Artificial Intelligence and Statistics
   link: https://aistats.org/aistats2025
-  accepted_papers_url: https://proceedings.mlr.press/v258/
   date: May 3-5, 2025
   deadlines:
   - type: abstract
@@ -30,6 +29,7 @@
   id: aistats26
   full_name: International Conference on Artificial Intelligence and Statistics
   link: https://virtual.aistats.org/Conferences/2026
+  date: May 2-4, 2026
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -55,15 +55,34 @@
     label: Camera-ready deadline
     date: '2026-03-31 23:59:59'
     timezone: AoE
-  date: May 2-5, 2026
-  tags:
-  - machine-learning
   city: Tangier
   country: Morocco
   start: '2026-05-02'
-  end: '2026-05-05'
+  end: '2026-05-04'
   rankings: 'CCF: C, CORE: A, THCPL: B'
+  tags:
+  - machine-learning
   venue: Hilton Tangier Al Houara Resort & Spa
   hindex: 101
   note: More info <a href='https://virtual.aistats.org/Conferences/2026/CallForPapers'>here</a>
   era_rating: b
+- title: AISTATS
+  year: 2027
+  id: aistats27
+  full_name: International Conference on Artificial Intelligence and Statistics
+  link: https://virtual.aistats.org/Conferences/2027
+  date: May 3-6, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2026-09-29 23:59:59'
+    timezone: UTC-12
+  - type: submission
+    label: Paper Submission
+    date: '2026-10-06 23:59:59'
+    timezone: UTC-12
+  city: Montréal
+  country: Canada
+  start: '2027-05-03'
+  end: '2027-05-06'
+  rankings: 'CCF: C, CORE: A, THCPL: B'

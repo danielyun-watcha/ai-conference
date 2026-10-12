@@ -3,15 +3,15 @@
   id: cec2025
   full_name: IEEE Congress on Evolutionary Computation
   link: https://www.cec2025.org/
-  date: June 8-12, 2025
+  date: June 9-12, 2025
   deadlines:
   - type: submission
     label: Paper Submission
-    date: '2025-01-15 23:59:59'
+    date: TBD
     timezone: UTC-12
   city: Hangzhou
   country: China
-  start: '2025-06-08'
+  start: '2025-06-09'
   end: '2025-06-12'
   rankings: 'CCF: C, CORE: B, THCPL: N'
   tags:
@@ -48,3 +48,19 @@
   - machine-learning
   venue: Maastricht Exhibition & Congress Centre (MECC)
   era_rating: a
+- title: IEEE CEC
+  year: 2027
+  id: cec2027
+  full_name: IEEE Congress on Evolutionary Computation
+  link: https://ieeecec.org/2027
+  date: July 25-28, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-02-28 23:59:59'
+    timezone: UTC-12
+  city: Edinburgh
+  country: Scotland, UK
+  start: '2027-07-25'
+  end: '2027-07-28'
+  rankings: 'CCF: C, CORE: B, THCPL: N'

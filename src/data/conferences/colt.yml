@@ -3,16 +3,15 @@
   id: colt25
   full_name: Annual Conference on Learning Theory
   link: https://learningtheory.org/colt2025/
-  accepted_papers_url: https://proceedings.mlr.press/v291/
-  date: June 30 - July 4, 2025
+  date: July 1-4, 2025
   deadlines:
   - type: submission
     label: Paper Submission
-    date: '2025-02-06 16:59:59'
+    date: '2025-02-06 17:00:00'
     timezone: UTC-5
   city: Lyon
   country: France
-  start: '2025-06-30'
+  start: '2025-07-01'
   end: '2025-07-04'
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   tags:
@@ -23,7 +22,7 @@
   id: colt26
   full_name: Annual Conference on Learning Theory
   link: https://learningtheory.org/colt2026/
-  date: June 29 - July 3, 2026
+  date: June 30 - July 3, 2026
   deadlines:
   - type: submission
     label: Paper submission deadline
@@ -47,9 +46,25 @@
     timezone: AoE
   city: San Diego
   country: California
-  start: '2026-06-29'
+  start: '2026-06-30'
   end: '2026-07-03'
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   tags:
   - machine-learning
   era_rating: a
+- title: COLT
+  year: 2027
+  id: colt27
+  full_name: Annual Conference on Learning Theory
+  link: https://learningtheory.org/colt2027/
+  date: June 28 - July 2, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: AoE
+  city: Tokyo
+  country: Japan
+  start: '2027-06-28'
+  end: '2027-07-02'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'

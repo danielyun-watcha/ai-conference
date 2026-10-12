@@ -3,7 +3,6 @@
   id: bis2025
   full_name: International Conference on Business Information Systems
   link: https://bisconf.org/2025/
-  accepted_papers_url: https://dblp.org/db/conf/bis/bis2025.html
   date: June 25-27, 2025
   deadlines:
   - type: submission
@@ -44,3 +43,19 @@
   - data-mining
   venue: Prague University of Economics and Business, Nám. W. Churchilla 4, Prague 130 67, Czech Republic
   era_rating: b
+- title: BIS
+  year: 2027
+  id: bis2027
+  full_name: International Conference on Business Information Systems
+  link: https://bisconf.org/2027/
+  date: June 23-25, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-01-11 23:59:59'
+    timezone: AoE
+  city: Poznań
+  country: Poland
+  start: '2027-06-23'
+  end: '2027-06-25'
+  rankings: 'CCF: N, CORE: N, THCPL: N'

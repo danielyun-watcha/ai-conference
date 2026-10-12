@@ -3,8 +3,7 @@
   id: recsys25
   full_name: ACM Conference on Recommender Systems
   link: https://recsys.acm.org/recsys25
-  accepted_papers_url: https://recsys.acm.org/recsys25/accepted-contributions/
-  date: September 22-26, 2025
+  date: September 23-25, 2025
   deadlines:
   - type: abstract
     label: Abstract deadline
@@ -24,8 +23,8 @@
     timezone: AoE
   city: Prague
   country: Czech Republic
-  start: '2025-09-22'
-  end: '2025-09-26'
+  start: '2025-09-23'
+  end: '2025-09-25'
   rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - recommender-systems
@@ -38,7 +37,7 @@
   id: recsys26
   full_name: ACM Conference on Recommender Systems
   link: https://recsys.acm.org/recsys26
-  date: September 28 - October 2, 2026
+  date: September 29 - October 1, 2026
   deadlines:
   - type: abstract
     label: Abstract deadline
@@ -58,8 +57,8 @@
     timezone: AoE
   city: Minneapolis
   country: Minnesota, USA
-  start: '2026-09-28'
-  end: '2026-10-02'
+  start: '2026-09-29'
+  end: '2026-10-01'
   rankings: 'CCF: B, CORE: A, THCPL: B'
   tags:
   - recommender-systems
@@ -67,3 +66,19 @@
   - data-mining
   venue: Minneapolis, Minnesota, USA
   era_rating: a
+- title: RecSys
+  year: 2027
+  id: recsys27
+  full_name: ACM Conference on Recommender Systems
+  link: https://recsys.acm.org/recsys27/
+  date: August 23-27, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: AoE
+  city: Honolulu
+  country: O‘ahu, Hawaii, USA
+  start: '2027-08-23'
+  end: '2027-08-27'
+  rankings: 'CCF: B, CORE: A, THCPL: B'
