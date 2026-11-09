@@ -3,7 +3,6 @@
   id: cscw25
   full_name: ACM Conference on Computer Supported Cooperative Work and Social Computing
   link: https://cscw.acm.org/2025/
-  accepted_papers_url: https://dblp.org/db/conf/cscw/cscw2025c.html
   date: October 18-22, 2025
   deadlines:
   - type: paper
@@ -50,3 +49,19 @@
   - recommender-systems
   note: Single new-paper submission cycle for CSCW 2026.
   era_rating: a
+- title: CSCW
+  year: 2027
+  id: cscw27
+  full_name: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  link: https://cscw.acm.org/2027/
+  date: October 16-20, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: TBD
+    timezone: AoE
+  city: Philadelphia
+  country: USA
+  start: '2027-10-16'
+  end: '2027-10-20'
+  rankings: 'CCF: A, CORE: A, THCPL: A'

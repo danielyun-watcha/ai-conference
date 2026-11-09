@@ -3,8 +3,7 @@
   id: acl25
   full_name: Annual Meeting of the Association for Computational Linguistics
   link: https://2025.aclweb.org/
-  accepted_papers_url: https://aclanthology.org/volumes/2025.acl-long/
-  date: July 27 - August 1, 2025
+  date: July 28-30, 2025
   deadlines:
   - type: paper
     label: Paper submission deadline
@@ -23,9 +22,9 @@
     date: '2025-05-30 23:59:59'
     timezone: AoE
   city: Vienna
-  country: Austria
-  start: '2025-07-27'
-  end: '2025-08-01'
+  country: Austria (Hybrid)
+  start: '2025-07-28'
+  end: '2025-07-30'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - natural-language-processing
@@ -37,7 +36,7 @@
   id: acl26
   full_name: Annual Meeting of the Association for Computational Linguistics
   link: https://2026.aclweb.org/
-  date: July 2 - 7, 2026
+  date: July 5-7, 2026
   deadlines:
   - type: paper
     label: Paper submission deadline
@@ -56,8 +55,8 @@
     date: '2026-04-19 23:59:59'
     timezone: AoE
   city: San Diego
-  country: California, United States
-  start: '2026-07-02'
+  country: California, United States (Hybrid)
+  start: '2026-07-05'
   end: '2026-07-07'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
@@ -65,3 +64,19 @@
   venue: Manchester Grand Hyatt San Diego, 1 Market Place, San Diego, CA 92101
   note: ARR commitment deadline on March 14th, 2026.
   era_rating: a
+- title: ACL
+  year: 2027
+  id: acl27
+  full_name: Annual Meeting of the Association for Computational Linguistics
+  link: https://2027.aclweb.org/
+  date: August 17-22, 2027
+  deadlines:
+  - type: submission
+    label: Paper Submission
+    date: '2027-01-04 23:59:59'
+    timezone: UTC-12
+  city: Kyoto
+  country: Japan
+  start: '2027-08-17'
+  end: '2027-08-22'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

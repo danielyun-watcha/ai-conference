@@ -3,7 +3,7 @@
   id: eccv26
   full_name: European Conference on Computer Vision
   link: https://eccv.ecva.net/
-  date: September 8 - 13, 2026
+  date: September 10-12, 2026
   deadlines:
   - type: submission
     label: Tutorial Proposal Submission
@@ -47,8 +47,8 @@
     timezone: AoE
   city: Malmö
   country: Sweden
-  start: '2026-09-08'
-  end: '2026-09-13'
+  start: '2026-09-10'
+  end: '2026-09-12'
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   tags:
   - computer-vision

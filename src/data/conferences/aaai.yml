@@ -3,8 +3,7 @@
   id: aaai25
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-25/
-  accepted_papers_url: https://ojs.aaai.org/index.php/AAAI/issue/view/624
-  date: February 25 - March 4, 2025
+  date: February 27-March 2, 2025
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -24,8 +23,8 @@
     timezone: AoE
   city: PHILADELPHIA
   country: PENNSYLVANIA, USA
-  start: '2025-02-25'
-  end: '2025-03-04'
+  start: '2025-02-27'
+  end: '2025-03-02'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - data-mining
@@ -40,7 +39,7 @@
   id: aaai26
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-26/
-  date: January 20 - 27, 2026
+  date: January 22-25, 2026
   deadlines:
   - type: abstract
     label: Abstract submission deadline
@@ -75,8 +74,8 @@
     date: '2025-11-13 23:59:59'
     timezone: AoE
   country: Singapore EXPO
-  start: '2026-01-20'
-  end: '2026-01-27'
+  start: '2026-01-22'
+  end: '2026-01-25'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - data-mining
