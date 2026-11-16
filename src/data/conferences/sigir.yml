@@ -3,8 +3,7 @@
   id: sigir25
   full_name: International Conference on Research on Development in Information Retrieval
   link: https://sigir2025.dei.unipd.it/
-  accepted_papers_url: https://sigir2025.dei.unipd.it/accepted-papers.html
-  date: July 13-18, 2025
+  date: July 14-16, 2025
   deadlines:
   - type: abstract
     label: Abstract Deadline
@@ -16,15 +15,15 @@
     timezone: AoE
   city: Padova
   country: Italy
-  start: '2025-07-13'
-  end: '2025-07-18'
+  start: '2025-07-14'
+  end: '2025-07-16'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
 - title: SIGIR
   year: 2026
   id: sigir26
   full_name: International Conference on Research on Development in Information Retrieval
   link: https://sigir2026.org/en-AU
-  date: July 20-24, 2026
+  date: July 21-23, 2026
   deadlines:
   - type: abstract
     label: Full research paper abstract deadline
@@ -48,8 +47,8 @@
     timezone: AoE
   city: Melbourne
   country: Australia
-  start: '2026-07-20'
-  end: '2026-07-24'
+  start: '2026-07-21'
+  end: '2026-07-23'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
   - information-retrieval
@@ -59,3 +58,23 @@
   venue: Melbourne Convention and Exhibition Centre (MCEC)
   hindex: 123.0
   era_rating: a
+- title: SIGIR
+  year: 2027
+  id: sigir27
+  full_name: International Conference on Research on Development in Information Retrieval
+  link: https://sigir2027.org/
+  date: July 18-24, 2027
+  deadlines:
+  - type: abstract
+    label: Abstract Deadline
+    date: '2027-01-14 23:59:59'
+    timezone: AoE
+  - type: submission
+    label: Paper Submission
+    date: '2027-01-21 23:59:59'
+    timezone: AoE
+  city: San Jose
+  country: California, USA
+  start: '2027-07-18'
+  end: '2027-07-24'
+  rankings: 'CCF: A, CORE: A*, THCPL: A'

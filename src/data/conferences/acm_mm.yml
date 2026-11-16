@@ -3,8 +3,7 @@
   id: mm25
   full_name: ACM International Conference on Multimedia
   link: https://acmmm2025.org/
-  accepted_papers_url: https://dblp.org/db/conf/mm/mm2025.html
-  date: October 27-31, 2025
+  date: October 29-31, 2025
   deadlines:
   - type: abstract
     label: Abstract submission for regular papers
@@ -24,7 +23,7 @@
     timezone: AoE
   city: Dublin
   country: Ireland
-  start: '2025-10-27'
+  start: '2025-10-29'
   end: '2025-10-31'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
@@ -39,7 +38,7 @@
   id: mm26
   full_name: ACM International Conference on Multimedia
   link: https://2026.acmmm.org/
-  date: November 10-14, 2026
+  date: November 11-14, 2026
   deadlines:
   - type: abstract
     label: Contribution registration
@@ -71,7 +70,7 @@
     timezone: AoE
   city: Rio de Janeiro
   country: Brazil
-  start: '2026-11-10'
+  start: '2026-11-11'
   end: '2026-11-14'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   tags:
